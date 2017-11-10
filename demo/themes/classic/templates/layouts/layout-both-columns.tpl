@@ -52,6 +52,9 @@
         {include file='_partials/notifications.tpl'}
       {/block}
 
+      {if $page.page_name == 'index'}
+        {hook h='displayOrderConfirmation2'}
+      {/if}
       <section id="wrapper">
         {hook h="displayWrapperTop"}
         <div class="container">

@@ -45,8 +45,9 @@ import EventEmitter from 'events';
 
 import './lib/bootstrap-filestyle.min';
 import './lib/jquery.scrollbox.min';
-
+import './lib/swiper.min';
 import './components/block-cart';
+import './components/featured-products-slider';
 
 // "inherit" EventEmitter
 for (var i in EventEmitter.prototype) {
