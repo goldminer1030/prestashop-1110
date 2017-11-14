@@ -2,6 +2,8 @@
 * Custom code goes here.
 * A template should always ship with an empty custom.css
 */
+
+/*HEADER*/
 #wrapper {
   background-color: #fffdeb;
 }
@@ -22,6 +24,7 @@
   display: inline-block;
 }
 
+/*HOME*/
 .featured-products .thumbnail-container {
   width: auto;
   text-align: center;
@@ -33,4 +36,14 @@
 
 .featured-products .highlighted-informations {
   width: 100%;
+}
+
+/*FOOTER*/
+#footer {
+  padding-top: 0;
+}
+
+.footer-container {
+  margin-top: 0;
+  background-color: #e4f2f1;
 }

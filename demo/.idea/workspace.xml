@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf54a74c-1fe6-40a6-b523-1aa8eec137fc" name="Default" comment="">
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\3-category_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\3-small_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\4-category_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\4-small_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\8-category_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\8-small_default.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\img\c\8.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/00/61/a9/0061a97f40a7a699b505cc989efa6cd36b2c7aa0.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/00/61/a9/0061a97f40a7a699b505cc989efa6cd36b2c7aa0.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/05/22/c2/0522c243a50f40398fe3735aae2309e60e2bef70.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/05/22/c2/0522c243a50f40398fe3735aae2309e60e2bef70.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/08/b8/39/08b83999cc6c54fb63308b7f57c4290d8c2e2f44.file.list_action_enable.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/08/b8/39/08b83999cc6c54fb63308b7f57c4290d8c2e2f44.file.list_action_enable.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/5e/25/0e5e256ccea6e76887b2a2767f455d7727986b19.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/5e/25/0e5e256ccea6e76887b2a2767f455d7727986b19.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/78/f1/0e78f1969110af394fc8023382e493f681014a34.file.quick_access.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/78/f1/0e78f1969110af394fc8023382e493f681014a34.file.quick_access.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/11/0e/c7/110ec72aa9921d2c382ad628bdb2f0bc5105a617.module.ps_searchbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/11/0e/c7/110ec72aa9921d2c382ad628bdb2f0bc5105a617.module.ps_searchbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/13/05/c8/1305c804472e789959ee960c6061498d90a78cd8.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/13/05/c8/1305c804472e789959ee960c6061498d90a78cd8.file.page_header_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/1c/80/ed/1c80edcaf662abdc608ffa5e65b5546da8fe93fa.file.nav_bar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/1c/80/ed/1c80edcaf662abdc608ffa5e65b5546da8fe93fa.file.nav_bar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/22/3e/46/223e463d753c09ccf68f12edbdd043d6823eccd9.file.modal_translation.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/22/3e/46/223e463d753c09ccf68f12edbdd043d6823eccd9.file.modal_translation.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/2b/fb/bc/2bfbbcc2d9b5632227acf964001a965aa6ff23dc.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/2b/fb/bc/2bfbbcc2d9b5632227acf964001a965aa6ff23dc.file.search_form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/2e/5c/1f/2e5c1f72abff5a3fdc468fbceb55c2c7d36978ad.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/2e/5c/1f/2e5c1f72abff5a3fdc468fbceb55c2c7d36978ad.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/ad/2c/32ad2c2d0a071cc6d1a97d23ed3905101b142cb1.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/ad/2c/32ad2c2d0a071cc6d1a97d23ed3905101b142cb1.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/e6/0a/32e60a3d533cc31e3d575f6e1a8d6b2197a03607.file.options.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/e6/0a/32e60a3d533cc31e3d575f6e1a8d6b2197a03607.file.options.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/ea/20/32ea20c34fdaf98f1b8807e65f8d15f7dcf20aa2.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/ea/20/32ea20c34fdaf98f1b8807e65f8d15f7dcf20aa2.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/33/11/41/331141e91827fcfe5ddb2a6d38eadb0d4918bdb4.file.footer.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/33/11/41/331141e91827fcfe5ddb2a6d38eadb0d4918bdb4.file.footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/35/00/89/350089123b4008cc20dbc04f0bb71e711ab2f9df.file.list.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/35/00/89/350089123b4008cc20dbc04f0bb71e711ab2f9df.file.list.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/35/65/5e/35655e6409b6198f29dd6e732ef9598dec599880.module.ps_shoppingcart.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/35/65/5e/35655e6409b6198f29dd6e732ef9598dec599880.module.ps_shoppingcart.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/36/9e/55/369e55cf69806b35e2538882b032b3dfe0647298.file.page_header_toolbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/36/9e/55/369e55cf69806b35e2538882b032b3dfe0647298.file.page_header_toolbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/38/ab/79/38ab79f26869130aef56c502ffa8523539050c9b.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/38/ab/79/38ab79f26869130aef56c502ffa8523539050c9b.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/39/2b/93/392b93ccb12cbd4d18b7ecad74a2cb668e3f67c5.file.footer.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/39/2b/93/392b93ccb12cbd4d18b7ecad74a2cb668e3f67c5.file.footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/39/77/cc/3977cc9669f83350b4ef45032f789e04719f9575.file.list_header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/39/77/cc/3977cc9669f83350b4ef45032f789e04719f9575.file.list_header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/41/df/19/41df1985130dffd7d3fe4cb369091546a0b40be7.module.ps_mainmenu.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/41/df/19/41df1985130dffd7d3fe4cb369091546a0b40be7.module.ps_mainmenu.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/42/f9/46/42f9461127ce7396a601c2484841253ea5ba658f.module.ps_customeraccountlinks.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/42/f9/46/42f9461127ce7396a601c2484841253ea5ba658f.module.ps_customeraccountlinks.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/44/b3/fb/44b3fbf764d4e23165f85027a232fa3f3c75051c.file.layout.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/44/b3/fb/44b3fbf764d4e23165f85027a232fa3f3c75051c.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/4a/b9/ce/4ab9ce6aefc5c51726dc9a767711db22c52c4f5b.file.nav.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/4a/b9/ce/4ab9ce6aefc5c51726dc9a767711db22c52c4f5b.file.nav.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/4c/e7/62/4ce7620f97e0fe9596afdb13c02eb2baa22d3c60.file.header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/4c/e7/62/4ce7620f97e0fe9596afdb13c02eb2baa22d3c60.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/4f/a1/55/4fa1559152875a8a8127a4b29662784e91dd9a62.file.options.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/4f/a1/55/4fa1559152875a8a8127a4b29662784e91dd9a62.file.options.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/51/3c/da/513cda9e6d7ed2e7897aa4ca88f94ac6f7d89d9c.file.welcome.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/51/3c/da/513cda9e6d7ed2e7897aa4ca88f94ac6f7d89d9c.file.welcome.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/59/db/f5/59dbf5828caad8d1bb5bcf847b3189d0b3c67275.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/59/db/f5/59dbf5828caad8d1bb5bcf847b3189d0b3c67275.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/54/5b30323339613834643662653332396462376661396335626464343361643139365d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/54/5b30323339613834643662653332396462376661396335626464343361643139365d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/30/5b35373664313033306162313665396434323861353930386363356534336663645d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/30/5b35373664313033306162313665396434323861353930386363356534336663645d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/32/5b64323838366236643761396231343763363264666137313131613031376438375d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/32/5b64323838366236643761396231343763363264666137313131613031376438375d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/46/5b656e5f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/46/5b656e5f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/ae/5b66323432386234633939326264386532303931376638636336383839646463315d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/ae/5b66323432386234633939326264386532303931376638636336383839646463315d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/8f/5b66616563363836656162396234353563336263306434363462623632396433395d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/8f/5b66616563363836656162396234353563336263306434363462623632396433395d5b315d.doctrinecache.data" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/63/fb/2a/63fb2a6bf6a998ae4da5b7fe172097cefd2723ac.file.non-responsive.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/63/fb/2a/63fb2a6bf6a998ae4da5b7fe172097cefd2723ac.file.non-responsive.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6a/61/69/6a6169e716aee9e144284b4fc9ab5666e632d050.file.modal_not_trusted.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6a/61/69/6a6169e716aee9e144284b4fc9ab5666e632d050.file.modal_not_trusted.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6c/cf/9d/6ccf9d81fcf412fbe6df5e78c32d3ac034e62e57.file.popup.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6c/cf/9d/6ccf9d81fcf412fbe6df5e78c32d3ac034e62e57.file.popup.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6e/fe/2a/6efe2af5936cdd35e4a4e40182b3dd1c2783043b.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6e/fe/2a/6efe2af5936cdd35e4a4e40182b3dd1c2783043b.file.notification_bt.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/71/12/8a/71128a970e9b7475e5c5fbdc0664275302098eb5.file.warning_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/71/12/8a/71128a970e9b7475e5c5fbdc0664275302098eb5.file.warning_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/71/cb/02/71cb0239edcf0c230da1fb24bd60ed095ed8c058.file.notifications_center.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/71/cb/02/71cb0239edcf0c230da1fb24bd60ed095ed8c058.file.notifications_center.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/72/f1/6b/72f16b667020ef6a786557e1ccb8912a87ae01a2.file.list_footer.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/72/f1/6b/72f16b667020ef6a786557e1ccb8912a87ae01a2.file.list_footer.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/77/c8/24/77c824f81d9a652715f8bd9aab7a345475442008.file.list_action_delete.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/77/c8/24/77c824f81d9a652715f8bd9aab7a345475442008.file.list_action_delete.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7d/2d/76/7d2d7684ec9f62e0179e399503bca0d29a4b905d.file.layout.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/7d/2d/76/7d2d7684ec9f62e0179e399503bca0d29a4b905d.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/7f/98/d6/7f98d669c5babcf79da2e78261afd9a87170074d.file.404.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/7f/98/d6/7f98d669c5babcf79da2e78261afd9a87170074d.file.404.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/82/81/7a/82817af45194e1b39f20419bf52f0f91076256d0.file.view.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/82/81/7a/82817af45194e1b39f20419bf52f0f91076256d0.file.view.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/8f/71/8e/8f718ef50222ca96bbf0fd880e333be2ce83b57e.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/8f/71/8e/8f718ef50222ca96bbf0fd880e333be2ce83b57e.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/48/f8/9048f8d4ee31fbcc000d075c31856d6a360c68b5.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/48/f8/9048f8d4ee31fbcc000d075c31856d6a360c68b5.file.javascript.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/65/48/906548e89c8c6025457ddaeffb1980a0c743b872.module.linkblock.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/65/48/906548e89c8c6025457ddaeffb1980a0c743b872.module.linkblock.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/95/d9/23/95d92362d4ced32f1b4bb483d9ec46de8ad94c40.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/95/d9/23/95d92362d4ced32f1b4bb483d9ec46de8ad94c40.file.login_addons.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/99/92/f3/9992f3fe04dd41bcec1a2029cf07bead637caf4d.module.ps_contactinfo.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/99/92/f3/9992f3fe04dd41bcec1a2029cf07bead637caf4d.module.ps_contactinfo.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9a/ed/33/9aed3385b980b743aedad94898ef7c3521cdc93c.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9a/ed/33/9aed3385b980b743aedad94898ef7c3521cdc93c.file.search_form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a2/92/ec/a292ec1bd544720849a92836addf20cb82f24385.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a2/92/ec/a292ec1bd544720849a92836addf20cb82f24385.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a3/70/aa/a370aae75b210e461c0293d2e68f26645b1f9f09.file.login_addons.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a3/70/aa/a370aae75b210e461c0293d2e68f26645b1f9f09.file.login_addons.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a6/06/68/a60668be841e70b7474c3c16b96fa2ec15c5d9f4.file.tooltip.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a6/06/68/a60668be841e70b7474c3c16b96fa2ec15c5d9f4.file.tooltip.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b1/ec/80/b1ec8081914eb4ebb07862d705feb58cb479110d.file.confirmation_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b1/ec/80/b1ec8081914eb4ebb07862d705feb58cb479110d.file.confirmation_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b8/d6/04/b8d60457ccbc05d89901d746b8bc83301e1f6102.file.options.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b8/d6/04/b8d60457ccbc05d89901d746b8bc83301e1f6102.file.options.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b9/23/37/b92337ec806248b44b3b85257be6dbbd367aed0a.file.error_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/b9/23/37/b92337ec806248b44b3b85257be6dbbd367aed0a.file.error_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/bb/4e/95/bb4e95e39c17d6fe9b38af9578a265912d6d0579.file.layout-ajax.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/bb/4e/95/bb4e95e39c17d6fe9b38af9578a265912d6d0579.file.layout-ajax.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/bf/78/50/bf785067180ce8faab75af21e92f4636a0adb382.file.list_content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/bf/78/50/bf785067180ce8faab75af21e92f4636a0adb382.file.list_content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c1/4a/ec/c14aec8dbeb46108b6aeb9bfc31382fa0442b720.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c1/4a/ec/c14aec8dbeb46108b6aeb9bfc31382fa0442b720.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c8/af/9a/c8af9aa2f19ec8701932be404764fe88095d9c40.file.header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c8/af/9a/c8af9aa2f19ec8701932be404764fe88095d9c40.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/cf/0d/59/cf0d59ea1c85366f887f28d4fc7f6bb2c7ca2534.file.modal_import_progress.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/cf/0d/59/cf0d59ea1c85366f887f28d4fc7f6bb2c7ca2534.file.modal_import_progress.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/assets/css/custom.css" afterPath="$PROJECT_DIR$/themes/classic/assets/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d0/8a/98/d08a989297ed2350e16f9cb2a08d9c9ba7d737aa.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d0/8a/98/d08a989297ed2350e16f9cb2a08d9c9ba7d737aa.file.modal.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d3/30/58/d330587c105b48aabb4bd0ec1795bbd02bd199bd.file.list_header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d3/30/58/d330587c105b48aabb4bd0ec1795bbd02bd199bd.file.list_header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/35/3a/d5353afb8751a9fec8c7b322ea16c6706f5e1878.file.end.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/35/3a/d5353afb8751a9fec8c7b322ea16c6706f5e1878.file.end.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c.module.ps_customersignin.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c.module.ps_customersignin.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d6/88/25/d68825f15ea041045dbae1ee1384b2ad0f475c1a.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d6/88/25/d68825f15ea041045dbae1ee1384b2ad0f475c1a.file.content.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/3f/e7/d73fe75ff3f5fc4c145622e8f3a8bbea47d88c67.file.navbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/3f/e7/d73fe75ff3f5fc4c145622e8f3a8bbea47d88c67.file.navbar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d8/88/f6/d888f6eaf1298dc34ddb4771878cf0b4b55fc532.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d8/88/f6/d888f6eaf1298dc34ddb4771878cf0b4b55fc532.file.form.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/db/82/5d/db825dac4072593adc7a95c30efc8f719e0f5728.file.form_settings.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/db/82/5d/db825dac4072593adc7a95c30efc8f719e0f5728.file.form_settings.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/dd/35/d5/dd35d50904457e5cefe40e64cd1de7fa800402f0.file.employee_dropdown.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/dd/35/d5/dd35d50904457e5cefe40e64cd1de7fa800402f0.file.employee_dropdown.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/df/d6/f6/dfd6f618cfd7ce3a4853f31b1ae46cce2dd23485.file.lost.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/df/d6/f6/dfd6f618cfd7ce3a4853f31b1ae46cce2dd23485.file.lost.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e4/46/b8/e446b853cbea68d92a1a270f5b2bc4f4b198febe.file.layout.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e4/46/b8/e446b853cbea68d92a1a270f5b2bc4f4b198febe.file.layout.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e6/77/a1/e677a1827f7ef8c2a24d15e68b1072a5e6a66606.file.configure.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/e6/77/a1/e677a1827f7ef8c2a24d15e68b1072a5e6a66606.file.configure.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/eb/67/5f/eb675fd215b0d826c91709c3e574420f5229155f.file.header.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/eb/67/5f/eb675fd215b0d826c91709c3e574420f5229155f.file.header.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ed/a6/3e/eda63ee8cd8ea6897aaf13b6694992ab4dac451f.file.list_action_edit.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ed/a6/3e/eda63ee8cd8ea6897aaf13b6694992ab4dac451f.file.list_action_edit.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ed/da/1f/edda1fff3b3f10e68695bc589435a70e33c069cb.file.modal_not_trusted_country.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ed/da/1f/edda1fff3b3f10e68695bc589435a70e33c069cb.file.modal_not_trusted_country.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/f4/bc/eb/f4bceb63fc7aa1bb7b2cf5616fb698bd4b2e0010.file.shop_list.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/f4/bc/eb/f4bceb63fc7aa1bb7b2cf5616fb698bd4b2e0010.file.shop_list.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fa/4a/06/fa4a068a0b6132ed552199ca2627de6621117165.file.content-legacy.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fa/4a/06/fa4a068a0b6132ed552199ca2627de6621117165.file.content-legacy.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fb/6f/70/fb6f70583b8bc6904d7b86f19f41a561ab13dfcf.file.information_messages.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fb/6f/70/fb6f70583b8bc6904d7b86f19f41a561ab13dfcf.file.information_messages.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fb/8a/8a/fb8a8a9bde502539618327bc3df9b3e66f87e959.file.calendar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fb/8a/8a/fb8a8a9bde502539618327bc3df9b3e66f87e959.file.calendar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fb/a0/1e/fba01e51ec459c7e1365d3846b64d0da05dc082d.file.configuration_bar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fb/a0/1e/fba01e51ec459c7e1365d3846b64d0da05dc082d.file.configuration_bar.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
+    </list>
+    <ignored path="demo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gm_categories.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.107143">
+              <caret line="9" column="78" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ps_banner.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/ps_banner/ps_banner.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.62637365">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ps_categorytree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ps_categorytree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hook" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ps_banner" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gm_categories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gm_categories" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf54a74c-1fe6-40a6-b523-1aa8eec137fc" name="Default" comment="" />
+      <created>1510624501817</created>
+      <option name="number" value="Default" />
+      <updated>1510624501817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1721225" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.201581">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#36#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.107143">
+          <caret line="9" column="78" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_categorytree/category-tree-branch.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47658864">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_categorytree/ps_categorytree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7307692">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+          <folding>
+            <marker date="1508764782000" expanded="true" signature="-1:-1" placeholder="SELECT c.id_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_categorytree/views/templates/hook/ps_categorytree.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6208791">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_banner/ps_banner.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62637365">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
