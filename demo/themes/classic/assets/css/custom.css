@@ -3,47 +3,127 @@
 * A template should always ship with an empty custom.css
 */
 
-/*HEADER*/
+/* HEADER */
 #wrapper {
-  background-color: #fffdeb;
+    background-color: #fffdeb;
+    box-shadow: none;
 }
 
 #header {
-  background: #fffdeb;
+    background: #fffdeb;
+}
+
+#wrapper .breadcrumb {
+    background: #f9eaed;
+    text-align: center;
+    line-height: 60px;
 }
 
 #header .header-nav {
-  background-color: #e4f2f1;
+    background-color: #e4f2f1;
 }
 
 #header .header-top .position-static {
-  text-align: center;
+    text-align: center;
 }
 
 #header .header-top .position-static .top-menu {
-  display: inline-block;
+    display: inline-block;
 }
 
-/*HOME*/
+/* TOP MENU */
+#header .header-top .menu .top-menu>ul>li {
+    position: relative;
+}
+
+#header .header-top .menu>ul>li:hover .sub-menu.collapse.in {
+    position: absolute;
+    display: inline-block !important;
+    top: 30px !important;
+}
+
+/* HOME */
+.featured-products {
+    background-color: #fffdeb;
+}
+
 .featured-products .thumbnail-container {
-  width: auto;
-  text-align: center;
+    width: auto;
+    text-align: center;
 }
 
 .featured-products .product-description {
-  width: 100%;
+    width: 100%;
 }
 
 .featured-products .highlighted-informations {
-  width: 100%;
+    width: 100%;
 }
 
-/*FOOTER*/
+/* SLIDER */
+.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: 0;
+}
+
+/* CUSTOM TEXT */
+#custom-text {
+    background: #fffdeb;
+}
+
+/* FOOTER */
 #footer {
-  padding-top: 0;
+    padding-top: 0;
 }
 
 .footer-container {
-  margin-top: 0;
-  background-color: #e4f2f1;
+    margin-top: 0;
+    background-color: #e4f2f1;
+}
+
+/* PRODUCT THUMBNAIL */
+#products .products .product-miniature .thumbnail-container {
+    width: 395px;
+    text-align: center;
+}
+
+#products .products .product-miniature .thumbnail-container .highlighted-informations,
+#products .products .product-miniature .thumbnail-container .product-description {
+    width: 100%;
+}
+
+/* GM_Categories module*/
+.gm-category {
+    position: relative;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.gm-category img {
+    width: 100%;
+}
+
+.gm-category:hover img {
+    -webkit-opacity: 0.7;
+    -moz-opacity: 0.7;
+    -o-opacity: 0.7;
+    -ms-opacity: 0.7;
+    -khtml-opacity: 0.7;
+    opacity: 0.7;
+}
+
+.gm-category-content {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+    padding: 10px 20px;
+    text-align: right;
+}
+
+.gm-category-content .gm-category-link {
+    display: inline-block;
+    padding: 10px 20px;
+    min-width: 120px;
+    color: #7d7d7d;
+    background-color: #fcf0f2;
+    text-align: center;
 }
