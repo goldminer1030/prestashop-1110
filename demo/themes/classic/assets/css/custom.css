@@ -3,14 +3,41 @@
 * A template should always ship with an empty custom.css
 */
 
-/* HEADER */
+/* BODY */
+@font-face {
+    font-family: 'Myriad Pro';
+    src: url('MyriadPro-Regular.eot');
+    src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+    url('MyriadPro-Regular.woff2') format('woff2'),
+    url('MyriadPro-Regular.woff') format('woff'),
+    url('MyriadPro-Regular.ttf') format('truetype'),
+    url('MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Trebuchet MS';
+    src: url('TrebuchetMS.eot');
+    src: url('TrebuchetMS.eot?#iefix') format('embedded-opentype'),
+    url('TrebuchetMS.woff2') format('woff2'),
+    url('TrebuchetMS.woff') format('woff'),
+    url('TrebuchetMS.ttf') format('truetype'),
+    url('TrebuchetMS.svg#TrebuchetMS') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Myriad Pro';
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+}
+
 #wrapper {
     background-color: #fffdeb;
     box-shadow: none;
-}
-
-#header {
-    background: #fffdeb;
 }
 
 #wrapper .breadcrumb {
@@ -19,8 +46,63 @@
     line-height: 60px;
 }
 
+/* HEADER */
+#header {
+    background: #fffdeb;
+}
+
+#header .header-top {
+    margin-top: -28px;
+}
+
+.top-menu a[data-depth="0"] {
+    font-weight: 500;
+    letter-spacing: 2.8px;
+    color: #929292;
+}
+
+.top-menu a.dropdown-submenu {
+    font-weight: 500;
+}
+
 #header .header-nav {
     background-color: #e4f2f1;
+    max-height: 28px;
+    margin-bottom: 0;
+}
+
+#header .header-nav .right-nav {
+    padding-right: 38px;
+}
+
+#header .header-nav .user-info {
+    margin-left: 0;
+    margin-top: 2px;
+    margin-right: 60px;
+}
+
+#header .header-nav .blockcart {
+    height: auto;
+    margin-left: 0;
+    padding: 0;
+}
+
+#header .header-nav .user-info a,
+#header .header-nav .blockcart .header {
+    color: #52c1bd;
+}
+
+#header .header-nav .user-info a {
+    font-family: 'Trebuchet MS';
+}
+
+#header .header-nav .blockcart .header img {
+    margin-right: 7px;
+}
+
+#header .header-nav .cart-preview .shopping-cart {
+    margin-right: 7px;
+    color: #f9cfe4;
 }
 
 #header .header-top .position-static {
@@ -31,20 +113,79 @@
     display: inline-block;
 }
 
+.btn-social-link {
+    margin: 0 18px 0 18px;
+}
+
 /* TOP MENU */
-#header .header-top .menu .top-menu>ul>li {
+#header .header-top .menu {
+    padding-top: 15px;
+}
+
+#header .header-top .menu .top-menu>li {
     position: relative;
 }
 
-#header .header-top .menu>ul>li:hover .sub-menu.collapse.in {
+#header .header-top .menu .top-menu .sub-menu {
     position: absolute;
-    display: inline-block !important;
-    top: 30px !important;
+    top: 40px !important;
+    width: auto;
+    background-color: #e4f2f1;
+}
+
+#header .header-top .menu .top-menu .sub-menu a {
+    color: #989999;
+}
+
+#header .header-top .menu .top-menu .sub-menu a:hover {
+    color: #52c1bd;
+}
+
+.top-menu-wrapper {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.top-right {
+    position: absolute;
+    top: 0;
+    right: 28px;
+    display: inline-block;
+}
+
+.search-widget {
+    float: none;
+}
+
+.shop-mark {
+    margin-bottom: 16px;
+}
+
+.search-widget form input[type=text] {
+    background-color: #e4f2f1;
+    margin-left: 30px;
+}
+
+.search-widget form button[type=submit] {
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.header-top .search-widget form input[type=text] {
+    width: 110px;
+    padding: 0 0 0 20px;
+    border-color: transparent;
 }
 
 /* HOME */
 .featured-products {
     background-color: #fffdeb;
+}
+
+/* FEATURED PRODUCTS */
+.featured-products .products-section-title {
+    display: none;
 }
 
 .featured-products .thumbnail-container {
@@ -62,7 +203,7 @@
 
 /* SLIDER */
 .swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
-    bottom: 0;
+    display: none;
 }
 
 /* CUSTOM TEXT */

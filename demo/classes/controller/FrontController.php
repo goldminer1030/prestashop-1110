@@ -508,6 +508,7 @@ class FrontControllerCore extends Controller
         }
         /* /patch */
         $templateVars = array(
+            'tpl_uri' => _THEME_DIR_,
             'cart' => $this->cart_presenter->present($this->context->cart),
             'currency' => $this->getTemplateVarCurrency(),
             'customer' => $this->getTemplateVarCustomer(),

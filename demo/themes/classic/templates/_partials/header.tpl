@@ -60,12 +60,25 @@
             <img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name}">
           </a>
         </div>
+        <div class="text-md-center hidden-sm-down">
+          <a class="btn-social-link" href="#">
+            <img class="icon-social" src="{$urls.img_url}fa-facebook.png" alt="social link">
+          </a>
+          <a class="btn-social-link" href="#">
+            <img class="icon-social" src="{$urls.img_url}fa-instagram.png" alt="social link">
+          </a>
+          <a class="btn-social-link" href="#">
+            <img class="icon-social" src="{$urls.img_url}fa-pinterest.png" alt="social link">
+          </a>
+        </div>
       </div>
       <div class="row">
         <div class="position-static">
-          <div class="row">
-            {hook h='displayTop'}
-            <div class="clearfix"></div>
+          <div class="col-xs-12">
+            <div class="row top-menu-wrapper">
+              {hook h='displayTop'}
+              <div class="clearfix"></div>
+            </div>
           </div>
         </div>
       </div>

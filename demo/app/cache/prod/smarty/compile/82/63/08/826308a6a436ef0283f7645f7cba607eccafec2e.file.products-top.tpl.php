@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-13 23:54:41
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-15 05:05:51
          compiled from "E:\xampp\htdocs\prestashop\demo\themes\classic\templates\catalog\_partials\products-top.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:255295a0a7711afda44-57052455%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:263625a0c117f20fe38-21528583%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -17,7 +17,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '255295a0a7711afda44-57052455',
+  'nocache_hash' => '263625a0c117f20fe38-21528583',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0a7711b35a38_14905702',
+  'unifunc' => 'content_5a0c117f2c8de2_02859031',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0a7711b35a38_14905702')) {function content_5a0a7711b35a38_14905702($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a0c117f2c8de2_02859031')) {function content_5a0c117f2c8de2_02859031($_smarty_tpl) {?>
 <div id="js-product-list-top" class="row products-selection">
   <div class="col-md-6 hidden-sm-down total-products">
     <?php if ($_smarty_tpl->tpl_vars['listing']->value['pagination']['total_items']>1) {?>
@@ -46,8 +46,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       
         <?php /*  Call merged included template "catalog/_partials/sort-orders.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('catalog/_partials/sort-orders.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('sort_orders'=>$_smarty_tpl->tpl_vars['listing']->value['sort_orders']), 0, '255295a0a7711afda44-57052455');
-content_5a0a7711b10ad1_02045779($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('catalog/_partials/sort-orders.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array('sort_orders'=>$_smarty_tpl->tpl_vars['listing']->value['sort_orders']), 0, '263625a0c117f20fe38-21528583');
+content_5a0c117f285e55_23898297($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); 
 /*  End of included template "catalog/_partials/sort-orders.tpl" */?>
       
@@ -68,9 +68,9 @@ $_smarty_tpl = array_pop($_tpl_stack);
   </div>
 </div>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-13 23:54:41
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-15 05:05:51
          compiled from "E:\xampp\htdocs\prestashop\demo\themes\classic\templates\catalog\_partials\sort-orders.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5a0a7711b10ad1_02045779')) {function content_5a0a7711b10ad1_02045779($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a0c117f285e55_23898297')) {function content_5a0c117f285e55_23898297($_smarty_tpl) {?>
 <span class="col-sm-3 col-md-3 hidden-sm-down sort-by"><?php echo smartyTranslate(array('s'=>'Sort by:','d'=>'Shop.Theme.Global'),$_smarty_tpl);?>
 </span>
 <div class="<?php if (!empty($_smarty_tpl->tpl_vars['listing']->value['rendered_facets'])) {?>col-sm-9 col-xs-8<?php } else { ?>col-sm-12 col-xs-12<?php }?> col-md-9 products-sort-order dropdown">

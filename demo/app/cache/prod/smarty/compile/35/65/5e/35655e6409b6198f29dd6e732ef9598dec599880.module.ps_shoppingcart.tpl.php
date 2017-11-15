@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-14 05:17:32
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-15 10:27:02
          compiled from "module:ps_shoppingcart/ps_shoppingcart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:53735a0ac2bc04c9a6-22477071%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:80315a0c5cc6544297-72474898%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '35655e6409b6198f29dd6e732ef9598dec599880' => 
     array (
       0 => 'module:ps_shoppingcart/ps_shoppingcart.tpl',
-      1 => 1508764756,
+      1 => 1510755146,
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '53735a0ac2bc04c9a6-22477071',
+  'nocache_hash' => '80315a0c5cc6544297-72474898',
   'function' => 
   array (
   ),
@@ -20,12 +20,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'cart' => 0,
     'refresh_url' => 0,
     'cart_url' => 0,
+    'urls' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0ac2bc05cb61_90002570',
+  'unifunc' => 'content_5a0c5cc65575d7_76648235',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0ac2bc05cb61_90002570')) {function content_5a0ac2bc05cb61_90002570($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a0c5cc65575d7_76648235')) {function content_5a0c5cc65575d7_76648235($_smarty_tpl) {?>
 <div id="_desktop_cart">
   <div class="blockcart cart-preview <?php if ($_smarty_tpl->tpl_vars['cart']->value['products_count']>0) {?>active<?php } else { ?>inactive<?php }?>" data-refresh-url="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['refresh_url']->value, ENT_QUOTES, 'UTF-8');?>
 ">
@@ -34,7 +35,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         <a rel="nofollow" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['cart_url']->value, ENT_QUOTES, 'UTF-8');?>
 ">
       <?php }?>
-        <i class="material-icons shopping-cart">shopping_cart</i>
+        <img src="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['urls']->value['img_url'], ENT_QUOTES, 'UTF-8');?>
+icon-cart.png" alt="cart icon">
         <span class="hidden-sm-down"><?php echo smartyTranslate(array('s'=>'Cart','d'=>'Shop.Theme.Checkout'),$_smarty_tpl);?>
 </span>
         <span class="cart-products-count">(<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['cart']->value['products_count'], ENT_QUOTES, 'UTF-8');?>

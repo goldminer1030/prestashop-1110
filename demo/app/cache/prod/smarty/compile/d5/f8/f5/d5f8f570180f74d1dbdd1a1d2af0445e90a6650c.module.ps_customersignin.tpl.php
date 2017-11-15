@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-14 05:17:32
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-15 10:27:02
          compiled from "module:ps_customersignin/ps_customersignin.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:116045a0ac2bc0295c1-57949878%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:153585a0c5cc6513916-52334549%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'd5f8f570180f74d1dbdd1a1d2af0445e90a6650c' => 
     array (
       0 => 'module:ps_customersignin/ps_customersignin.tpl',
-      1 => 1508764756,
+      1 => 1510743096,
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '116045a0ac2bc0295c1-57949878',
+  'nocache_hash' => '153585a0c5cc6513916-52334549',
   'function' => 
   array (
   ),
@@ -24,9 +24,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0ac2bc038063_70543435',
+  'unifunc' => 'content_5a0c5cc6522af9_72516570',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0ac2bc038063_70543435')) {function content_5a0ac2bc038063_70543435($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a0c5cc6522af9_72516570')) {function content_5a0c5cc6522af9_72516570($_smarty_tpl) {?>
 <div id="_desktop_user_info">
   <div class="user-info">
     <?php if ($_smarty_tpl->tpl_vars['logged']->value) {?>
@@ -60,8 +60,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 "
         rel="nofollow"
       >
-        <i class="material-icons">&#xE7FF;</i>
-        <span class="hidden-sm-down"><?php echo smartyTranslate(array('s'=>'Sign in','d'=>'Shop.Theme.Actions'),$_smarty_tpl);?>
+        <span class="hidden-sm-down"><?php echo smartyTranslate(array('s'=>'Your account','d'=>'Shop.Theme.Actions'),$_smarty_tpl);?>
 </span>
       </a>
     <?php }?>
