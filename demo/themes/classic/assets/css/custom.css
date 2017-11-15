@@ -33,9 +33,11 @@ body {
     font-size: 14px;
     line-height: 22px;
     letter-spacing: 1.2px;
+    background: #fffdeb;
 }
 
 #wrapper {
+    padding-top: 0;
     background-color: #fffdeb;
     box-shadow: none;
 }
@@ -49,6 +51,12 @@ body {
 /* HEADER */
 #header {
     background: #fffdeb;
+}
+
+@media (max-width: 768px) {
+    #header {
+        margin-bottom: 50px;
+    }
 }
 
 #header .header-top {
@@ -69,6 +77,10 @@ body {
     background-color: #e4f2f1;
     max-height: 28px;
     margin-bottom: 0;
+}
+
+#header .header-nav #menu-icon .material-icons {
+    line-height: 30px;
 }
 
 #header .header-nav .right-nav {
@@ -181,6 +193,7 @@ body {
 /* HOME */
 .featured-products {
     background-color: #fffdeb;
+    padding: 0 20px;
 }
 
 /* FEATURED PRODUCTS */
@@ -193,12 +206,26 @@ body {
     text-align: center;
 }
 
+.featured-products .product-miniature {
+    margin: 0;
+}
+
 .featured-products .product-description {
     width: 100%;
 }
 
 .featured-products .highlighted-informations {
     width: 100%;
+}
+
+.featured-products .thumbnail-container {
+    height: 336px;
+    overflow: hidden;
+}
+
+.featured-products img {
+    width: auto;
+    height: 100%;
 }
 
 /* SLIDER */
@@ -209,6 +236,16 @@ body {
 /* CUSTOM TEXT */
 #custom-text {
     background: #fffdeb;
+    padding: 20px;
+    margin-bottom: 0;
+}
+
+#custom-text p {
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 1.2px;
+    line-height: 2.33;
+    color: #7d7d7d;
 }
 
 /* FOOTER */
@@ -230,6 +267,10 @@ body {
 #products .products .product-miniature .thumbnail-container .highlighted-informations,
 #products .products .product-miniature .thumbnail-container .product-description {
     width: 100%;
+}
+
+.icon-divider {
+    text-align: center;
 }
 
 /* GM_Categories module*/

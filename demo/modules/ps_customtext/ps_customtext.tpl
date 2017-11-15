@@ -24,5 +24,11 @@
 *}
 
 <div id="custom-text">
-  {$cms_infos.text nofilter}
+  <div class="icon-divider">
+    <img src="{$urls.img_url}icon-heart.png" alt="icon divider">
+  </div>
+  <p>Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit. Sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  <div class="icon-divider">
+    <img src="{$urls.img_url}icon-heart.png" alt="icon divider">
+  </div>
 </div>
