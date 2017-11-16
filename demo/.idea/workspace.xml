@@ -3,593 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="bf54a74c-1fe6-40a6-b523-1aa8eec137fc" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/classic/assets/img/icon-cart.png" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\03\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d247669657744617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\03\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236765744572726f7273405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\04\5b53706c46696c65496e666f2367657450617468405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\06\5b4974657261746f72416767726567617465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\07\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236e6f726d546f56696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\07\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c652473697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\0d\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65235f5f636f6e737472756374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\0e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23676574457874726144617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\0e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2367657450726f706572747950617468405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\10\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23616464405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\13\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23696e64656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\14\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23696e697469616c697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\15\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374496d616765436f6e74726f6c6c65722375706c6f6164496d616765416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\15\5b53706c46696c65496e666f2369734c696e6b405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\16\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2368616e646c6552657175657374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\16\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236973526f6f74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\17\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d246572726f7273405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\17\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523616c6c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\17\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236765744e6f726d44617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1a\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23697356616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1a\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65246572726f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1b\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765744572726f7273405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1d\5b53706c46696c65496e666f2367657453697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1d\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d246e6f726d44617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236164644572726f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\1e\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65236775657373436c69656e74457874656e73696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\20\5b53706c46696c65496e666f236765744154696d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\20\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652372656d6f7665405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\21\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236164644572726f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\24\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d24636f6e666967405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\24\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2464656661756c7444617461536574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\25\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d246368696c6472656e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\26\5b53706c46696c65496e666f2367657446696c65496e666f405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\26\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d237375626d6974405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\27\5b5472617665727361626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\28\5b4172726179416363657373405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\28\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2363726561746556696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\2e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2367657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\2f\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c6523697356616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\31\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23676574457874726144617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\34\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170236f6666736574536574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\35\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765744572726f72734173537472696e67405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\37\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236973456d707479405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\39\5b53706c46696c65496e666f23676574457874656e73696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\3a\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d24636c69636b6564427574746f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\3c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765744e6f726d44617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\3c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236973426f756e64405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\3c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523697353796e6368726f6e697a6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\3f\5b4172726179416363657373236f6666736574556e736574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\3f\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65236765744572726f724d657373616765405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\40\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\40\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\40\_40ea9dedd3a74c51ce1883e8a6170d21f890f9c6cc9cf51f48b34cbb96ad3514.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\41\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374496d616765436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\41\5b53706c46696c65496e666f2369735265616461626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\41\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23736574506172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\42\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652363726561746556696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\42\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170246d616e61676564437572736f7273405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\44\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c65236d6f7665405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\45\5b53706c46696c65496e666f23697346696c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\46\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572236d616e616765416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\47\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765745472616e73666f726d6174696f6e4661696c757265405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\48\5b4172726179416363657373236f6666736574536574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\48\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2369735265717569726564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\48\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e24636f6e666967405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\48\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65236765744d617846696c6573697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\49\5b53706c46696c65496e666f23736574496e666f436c617373405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\4b\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236f6666736574556e736574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\4c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523676574457874726144617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\4e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236e6f726d546f4d6f64656c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\4f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236765744e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\50\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523696e697469616c697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\50\_50608a284d7639c806df1b17a61fa87c78b5c17091c8bbf33a54f802db298f98.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\51\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c657223756e6974416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\51\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d235f5f636f6e737472756374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\51\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765744e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\53\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\54\5b53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c65722373686f77416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\54\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23636f756e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\54\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23686173405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\55\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\57\5b53706c46696c65496e666f235f6261645f73746174655f6578405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\57\_57857ea8989c15dd075f3ce203ca4aeecef05ae92b34c427c2c854096efbbb7e.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\58\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2376696577546f4e6f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5a\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5a\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e247375626d6974746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5a\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523697356616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5b\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e237375626d6974405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23676574436c69636b6564427574746f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765745669657744617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\5f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23736574506172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\60\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652367657450726f706572747950617468405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\60\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\62\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170236f6666736574457869737473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\62\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65246f726967696e616c4e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\66\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d617023636f756e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\67\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65236d6f7665405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\68\5b53706c46696c65496e666f23676574426173656e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\69\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652369735375626d6974746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\6b\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c6523676574436c69656e744f726967696e616c4e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\6c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2372656d6f7665405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\6d\5b53706c46696c65496e666f236765745265616c50617468405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\6d\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652373657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\6f\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572236e6f74696669636174696f6e416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\6f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236765744e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\70\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c657223666f726d416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\70\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23696e697469616c697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\72\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c5365637572697479436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\72\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23616464405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\73\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2372656d6f7665405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\73\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236d6f64656c546f4e6f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\74\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23676574436f6e666967405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\75\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236765744572726f7273405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\75\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236765745472616e73666f726d6174696f6e4661696c757265405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\75\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2369735375626d6974746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\77\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c436f6d62696e6174696f6e436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\77\_778f7a373f651213790ea7ca092a5a613eade41b5e9bbdb345a8aa04419de63c.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\79\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170236f6666736574476574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7b\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236973526f6f74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7c\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c65722372656e6465724669656c64416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23697344697361626c6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7d\5b53706c46696c65496e666f2367657450617468496e666f405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236765744974657261746f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2369735265717569726564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7f\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c65722372656672657368436174616c6f67416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7f\5b53706c46696c65496e666f236973446972405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7f\5b53706c46696c65496e666f2373657446696c65436c617373405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\7f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23676574506172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\81\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236f6666736574457869737473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\83\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236f6666736574536574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\84\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236973456d707479405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\86\5b53706c46696c65496e666f236765744c696e6b546172676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\87\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c417474726962757465436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\87\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236765745472616e73666f726d6174696f6e4661696c757265405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\89\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c6523676574436c69656e744d696d6554797065405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8a\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d246d6f64656c44617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8c\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523736574506172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8d\5b53796d666f6e795c42756e646c655c5477696742756e646c655c436f6e74726f6c6c65725c457863657074696f6e436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8d\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2369735375626d6974746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8d\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236164644572726f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8e\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652369735265717569726564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2367657450726f706572747950617468405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\8f\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236973456d707479405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\91\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236f6666736574476574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\92\5b53706c46696c65496e666f236765744f776e6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\92\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236f6666736574476574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\94\5b4172726179416363657373236f6666736574457869737473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\96\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c657223636174616c6f67416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\98\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c657223696d706f72744d6f64756c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\98\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23697344697361626c6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\99\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23676574526f6f74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a3\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23636f756e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a3\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23697353796e6368726f6e697a6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a4\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c53706563696669635072696365436f6e74726f6c6c6572405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a4\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23676574506172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a4\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c652474657374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a6\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23676574526f6f74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a6\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236f6666736574457869737473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a8\5b53706c46696c65496e666f235f5f746f537472696e67405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2363726561746556696577405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\a9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ac\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236f6666736574536574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ac\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d236973526f6f74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ae\5b53706c46696c65496e666f2367657446696c656e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\af\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523676574526f6f74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b1\5b4172726179416363657373236f6666736574476574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b4\5b53706c46696c65496e666f236765745065726d73405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b4\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d246c6f636b53657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b5\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b6\5b53706c46696c65496e666f235f5f636f6e737472756374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b6\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e24706172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b7\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c65235f5f636f6e737472756374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b8\5b53706c46696c65496e666f2367657447726f7570405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b8\5b53706c46696c65496e666f23676574496e6f6465405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\b9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170246f7264657265644b657973405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ba\5b4974657261746f72416767726567617465236765744974657261746f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ba\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ba\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d247472616e73666f726d6174696f6e4661696c757265405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\bd\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23616c6c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\bd\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236765744974657261746f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\be\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d247375626d6974746564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\bf\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c6572236c697374416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c0\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c2\5b436f756e7461626c6523636f756e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c3\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170235f5f636f6e737472756374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c5\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e235f5f636f6e737472756374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c5\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c6\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c6572236d6f64756c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c6\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2367657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c8\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523697344697361626c6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c9\5b53706c46696c65496e666f23676574506174686e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\c9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23697356616c6964405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ca\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236f6666736574556e736574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\cb\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23676574436f6e666967405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\cd\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236765745669657744617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\cd\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d235f5f636c6f6e65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\cd\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d24657874726144617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ce\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2373657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\cf\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e2373657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\cf\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523616464405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\d0\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365236765745669657744617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\d1\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523676574506172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\d3\5b53706c46696c65496e666f2369735772697461626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\d4\5b53706c46696c65496e666f405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\d7\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23676574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\da\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d24706172656e74405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\db\5b53706c46696c65496e666f236765744354696d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\dc\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2362696e64405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\de\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652367657444617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\df\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c657223636174616c6f67416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\df\5b53706c46696c65496e666f23697345786563757461626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e0\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c53706563696669635072696365436f6e74726f6c6c6572236c697374416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e0\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c65236765744e616d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e2\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e7465726661636523676574436f6e666967405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e5\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c65236775657373457874656e73696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e7\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e746572666163652368616e646c6552657175657374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e8\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e23697353796e6368726f6e697a6564405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170236f6666736574556e736574405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\e9\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65236765744572726f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\eb\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d6170236765744974657261746f72405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\eb\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c65246d696d6554797065405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ec\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c5574696c5c4f726465726564486173684d617024656c656d656e7473405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f0\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c417474726962757465436f6e74726f6c6c657223676574466f726d496d61676573416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f3\5b53706c46696c65496e666f236f70656e46696c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f4\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d496e74657266616365237375626d6974405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f5\5b53706c46696c65496e666f236765744d54696d65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f7\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c55706c6f6164656446696c6523676574436c69656e7453697a65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f7\_f717cd205f27dcb9b349161809b76ac6c2acf324c1b05368c86085394cfd6663.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f8\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c65236765744d696d6554797065405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d23616c6c405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\f9\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c466f726d2368616e646c6552657175657374405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\fc\5b53796d666f6e795c436f6d706f6e656e745c48747470466f756e646174696f6e5c46696c655c46696c652367657454617267657446696c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\fd\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c50726f64756374436f6e74726f6c6c6572236e6577416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\fd\5b53706c46696c65496e666f2367657454797065405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\fe\5b436f756e7461626c65405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\fe\5b50726573746153686f7042756e646c655c436f6e74726f6c6c65725c41646d696e5c4d6f64756c65436f6e74726f6c6c657223636f6e6669677572654d6f64756c65416374696f6e405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\annotations\ff\5b53796d666f6e795c436f6d706f6e656e745c466f726d5c427574746f6e236765744e6f726d44617461405b416e6e6f745d5d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\doctrine\30\5b35373664313033306162313665396434323861353930386363356534336663645d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\doctrine\32\5b64323838366236643761396231343763363264666137313131613031376438375d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\doctrine\46\5b656e5f6164646f6e735f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\doctrine\54\5b30323339613834643662653332396462376661396335626464343361643139365d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\doctrine\8f\5b66616563363836656162396234353563336263306434363462623632396433395d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\doctrine\ae\5b66323432386234633939326264386532303931376638636336383839646463315d5b315d.doctrinecache.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\push\activity" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\00\61\a9\0061a97f40a7a699b505cc989efa6cd36b2c7aa0.file.modal.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\02\41\4c\02414c26a32b4dd0d43b9c506c921c6e3630c721.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\08\b8\39\08b83999cc6c54fb63308b7f57c4290d8c2e2f44.file.list_action_enable.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\0e\78\f1\0e78f1969110af394fc8023382e493f681014a34.file.quick_access.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\0f\40\b7\0f40b7e4e97d99d6e028a0d05f715eb84582265b.file.employee_field.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\10\5a\b8\105ab8d1928ad7fc19199a80009650119cc9cd19.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\13\05\c8\1305c804472e789959ee960c6061498d90a78cd8.file.page_header_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\19\75\ea\1975ea932e74ebadcf70dc5a6dca49c03583e60f.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\1c\80\ed\1c80edcaf662abdc608ffa5e65b5546da8fe93fa.file.nav_bar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\1e\36\06\1e3606e8124e1e30db669e4d6648c19d18fe8845.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\1e\53\a5\1e53a50f3eced662e3ab15dd8b0ed267fbe10445.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\1e\e8\c7\1ee8c77e9115b4b373ef1be94748a5251a3ca4ab.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\1f\80\09\1f80095733b646f1060c4a6c3378ec6e7ff61e5d.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\22\3e\46\223e463d753c09ccf68f12edbdd043d6823eccd9.file.modal_translation.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\2b\82\b0\2b82b0577dac557752e7115a16f124b1e0f80b5d.file.tree_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\2b\fb\bc\2bfbbcc2d9b5632227acf964001a965aa6ff23dc.file.search_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\2e\5c\1f\2e5c1f72abff5a3fdc468fbceb55c2c7d36978ad.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\30\7d\c6\307dc6bd4724d29d1572cc301dd7148e962604ef.module.ps_emailsubscription.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\32\8c\6d\328c6dca2d0ff77177f7262e268c3744aa6eddf7.file.contactform.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\32\ad\2c\32ad2c2d0a071cc6d1a97d23ed3905101b142cb1.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\32\e6\0a\32e60a3d533cc31e3d575f6e1a8d6b2197a03607.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\35\00\89\350089123b4008cc20dbc04f0bb71e711ab2f9df.file.list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\38\ab\79\38ab79f26869130aef56c502ffa8523539050c9b.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\39\2b\93\392b93ccb12cbd4d18b7ecad74a2cb668e3f67c5.file.footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\39\77\cc\3977cc9669f83350b4ef45032f789e04719f9575.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\3b\b5\7b\3bb57b118b7620c56b04c35fa263c3ffe50f3813.file.products-bottom.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\40\6e\34\406e34f47ded1c9a6ab61a20a1ea20c77b2d592c.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\40\af\59\40af59748b7a2efe6f8a17edf7880fc71675d6c4.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\45\c0\13\45c0136c9d8dcf2e95ec23bf4f481b41d220301e.file.menu.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\4f\a1\55\4fa1559152875a8a8127a4b29662784e91dd9a62.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\50\c0\0a\50c00ac19b37f3ed640547e038b1ad993837069a.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\51\3c\da\wrt5a06c1b6c10a22_85383016" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\51\3c\da\wrt5a0a41ee13a048_98253359" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\55\57\ca\5557ca793bc7c8ecc1e47eb8197bdcc28311f0ce.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\59\db\f5\59dbf5828caad8d1bb5bcf847b3189d0b3c67275.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\62\80\89\628089b29e2c5fb69de1c5694b088f988b830ba7.module.ps_contactinfo-rich.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\63\fb\2a\63fb2a6bf6a998ae4da5b7fe172097cefd2723ac.file.non-responsive.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\64\03\40\64034093fbda864710a2c0f526b37f921e53ee39.module.ps_banner.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\6a\61\69\6a6169e716aee9e144284b4fc9ab5666e632d050.file.modal_not_trusted.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\6b\5a\8a\6b5a8afc218734fb8607f5d4e2ac24a6f4696d77.file.config.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\6b\a3\1a\6ba31af057fd5c11954b3f53d0a896d4ee0f95b0.file.ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\71\12\8a\71128a970e9b7475e5c5fbdc0664275302098eb5.file.warning_messages.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\71\cb\02\71cb0239edcf0c230da1fb24bd60ed095ed8c058.file.notifications_center.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\72\f1\6b\72f16b667020ef6a786557e1ccb8912a87ae01a2.file.list_footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\73\e7\63\73e7637c1003a9c8cdf6ebb9bd526adcf2ab6314.file.dashboard_zone_one.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\77\c8\24\77c824f81d9a652715f8bd9aab7a345475442008.file.list_action_delete.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\79\53\7c\79537c9ed81e83cdcf0fae10a761fd2313dc90a2.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\7d\2d\76\7d2d7684ec9f62e0179e399503bca0d29a4b905d.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\80\7a\c4\807ac4101b35497e02b5c3f656484e8b5b2bb6e7.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\80\ac\9d\80ac9ddb06fe7b43ffdd2f5cd1185536480d2577.module.ps_socialfollow.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\81\a1\04\81a1040ed0eeab6f58198f9907167c7fced628c5.module.ps_facetedsearch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\82\63\08\826308a6a436ef0283f7645f7cba607eccafec2e.file.products-top.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\82\81\7a\82817af45194e1b39f20419bf52f0f91076256d0.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\83\4b\3e\834b3e3535f4ff536025fc4e3d58a27f28bc0e3d.file.simple.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\83\52\3f\83523f00f4c10dcef6e5f0044b4719eca96d089c.file._print_pdf_icon.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\89\21\00\8921007f54626fc7fe42cbff53f1d70828d3393d.module.ps_categorytree.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\8b\91\90\8b9190970967b7f7956e9c8ce945540bf8304a54.file.required_fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\8f\71\8e\8f718ef50222ca96bbf0fd880e333be2ce83b57e.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\90\a6\9e\90a69ee143e1de11195e5924426ccd251d0482c9.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\95\d9\23\wrt5a09c505eef2a7_99103616" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\95\d9\23\wrt5a09c6ad50ff77_09497424" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\96\4a\b9\964ab927974071b1bcd64b9ef792d1568fcbec4d.file.tree_toolbar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\98\18\71\981871ccd813b961d8bb7fe6131fd0d460da7061.file.dashboard_zone_two.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\98\b5\25\98b5252478a5ddadcdee7f64bb3d3cd40ad86d8c.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\9a\b3\c1\9ab3c1e1b1143d8c831284cb54dfeeecc7772577.file.view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\a2\92\ec\a292ec1bd544720849a92836addf20cb82f24385.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\a3\70\aa\a370aae75b210e461c0293d2e68f26645b1f9f09.file.login_addons.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\a9\e7\c7\a9e7c74523ffe14a9bb617aeb254b97aba69a365.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\ac\d9\c5\acd9c5df34aa32aacc0c225b523ac859551d429e.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\b1\31\2f\b1312f15487f14a238daf3aba278462f3d505036.file.filters_bt.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\b1\ec\80\b1ec8081914eb4ebb07862d705feb58cb479110d.file.confirmation_messages.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\b5\d4\28\b5d428c4b4166252743cb9d82fd25c923f767843.file.facets.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\b6\41\a6\b641a64432b902f4ca758a6ce48d90f8bd354a63.file.tree_node_item_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\b8\d6\04\b8d60457ccbc05d89901d746b8bc83301e1f6102.file.options.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\b9\23\37\b92337ec806248b44b3b85257be6dbbd367aed0a.file.error_messages.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\bb\4e\95\bb4e95e39c17d6fe9b38af9578a265912d6d0579.file.layout-ajax.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\bf\78\50\bf785067180ce8faab75af21e92f4636a0adb382.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\c3\8b\e1\c38be1b303ae69f617ebc72c444df7d9346a22a1.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\c5\09\26\c509269e25112fd73f4c7e7aa32bc094c895ba6d.file.form_date_range_picker.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\c6\cc\54\c6cc54f3e5bc13f4e7cbb08c7309aa77098c64bd.file.dashboard_zone_two.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\c8\af\9a\c8af9aa2f19ec8701932be404764fe88095d9c40.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\c9\fa\b1\c9fab1393e8100ee9029428e430028d125b8aa7a.file.tree_node_folder_radio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\cf\0d\59\cf0d59ea1c85366f887f28d4fc7f6bb2c7ca2534.file.modal_import_progress.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\d3\30\58\d330587c105b48aabb4bd0ec1795bbd02bd199bd.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\d5\35\3a\wrt5a09f34c69d5a4_84886662" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\d6\88\25\d68825f15ea041045dbae1ee1384b2ad0f475c1a.file.content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\d6\f8\3b\d6f83bf12afd54c6f28d60efb21bd0fc38fbb7c8.file.products.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\d8\88\f6\d888f6eaf1298dc34ddb4771878cf0b4b55fc532.file.form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\db\82\5d\db825dac4072593adc7a95c30efc8f719e0f5728.file.form_settings.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\db\bc\9d\dbbc9d602a8021e74145dc079547e6b954e670c9.file.active_filters.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\dd\35\d5\dd35d50904457e5cefe40e64cd1de7fa800402f0.file.employee_dropdown.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\de\22\f9\de22f9cac847baa68d925829e63037c4ce028289.file.kpi.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\de\ed\49\deed49e84ed5a50586c07f2f073b3b38d705acfa.file.list_content.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e2\69\22\e26922dfba2989f805647f4034df3a1df6037320.file.list_action_view.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e2\ed\a1\e2eda17720d1c1179b091119c48c7a295a2c3fae.file.dashboard_zone_two.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e4\46\b8\e446b853cbea68d92a1a270f5b2bc4f4b198febe.file.layout.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e5\24\4d\e5244d3d6d9ebbdfff6196dd85115ae69a10656e.file.tree_toolbar_link.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e6\77\a1\e677a1827f7ef8c2a24d15e68b1072a5e6a66606.file.configure.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e6\a3\22\e6a322462b66b0d6569ff9908d175aa3b9a3ed22.file.tree_categories.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\e6\f4\d2\e6f4d238bc2940c14dce2c04e134510ed6c192a9.file.view_bt.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\eb\67\5f\eb675fd215b0d826c91709c3e574420f5229155f.file.header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\eb\9f\6d\eb9f6d9145f05164cde38ae08ca3059c08fa6ac0.file.list_modules.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\ed\a6\3e\eda63ee8cd8ea6897aaf13b6694992ab4dac451f.file.list_action_edit.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\ed\da\1f\edda1fff3b3f10e68695bc589435a70e33c069cb.file.modal_not_trusted_country.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\f2\08\fc\f208fcc4acba30bc80be7d7d8c2de6a759d3d3d4.file.list_header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\f2\dc\bd\f2dcbd11c2af0ce349560cd4050f5fcd36c9d9da.file.stats.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\f4\bc\eb\f4bceb63fc7aa1bb7b2cf5616fb698bd4b2e0010.file.shop_list.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\f8\fa\0c\f8fa0c4fe765b44819a74072fc97e8c110e17a53.file.row.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\fa\4a\06\fa4a068a0b6132ed552199ca2627de6621117165.file.content-legacy.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\fb\6f\70\fb6f70583b8bc6904d7b86f19f41a561ab13dfcf.file.information_messages.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\fb\8a\8a\fb8a8a9bde502539618327bc3df9b3e66f87e959.file.calendar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\fb\a0\1e\fba01e51ec459c7e1365d3846b64d0da05dc082d.file.configuration_bar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_full_width_tpl\7f\98\d6\wrt5a0c16d3505022_92216042" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_full_width_tpl\8c\a9\11\8ca911b2cb9a43c50917b7a3227f9180b007900f.file.search.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_full_width_tpl\9a\1f\29\wrt5a0be63ccd30b5_45492661" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_full_width_tpl\9a\1f\29\wrt5a0c16bbc4aeb8_10119551" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_full_width_tpl\ee\a3\bb\eea3bb1900abc999d48dbfd72acb5eb58d538164.file.category.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_left_column_tpl\3c\35\aa\3c35aaacc1c49cd69f8fe69c74ec70b85b5a1c43.file.prices-drop.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_left_column_tpl\83\50\75\83507597d47804370fff6bba989b24cc131a7faf.file.category.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_left_column_tpl\c3\1e\5b\c31e5bc52d5ea97dec7f533fcd92e6452f9a0fb5.file.contact.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\translations\catalogue.en-US.3fea97234267aa02290eee8ee5357fb280cfa275.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\translations\catalogue.en-US.3fea97234267aa02290eee8ee5357fb280cfa275.php.meta" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\02\028f693803d30bb412aca8c14773278100cc677924bc9805e76f8e7786c17b9c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\03\03ea95e0a9253dc5818cc99b0762be65b771ab39eb6e6ae74c93f32164ef077b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\04\0420315083ff9a7220653642c365015bde1a717c09135728a7fa6938f95ebbcc.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\04\042b7b4ed7dc830efe44390c7675e4c6b42b707f5a419397a42b0358b918be5e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\05\05352e320f5c22b049bb3f8b28a16cdda434e3719beba5e9fdd7674e4a9081d8.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\05\057770e0df77fb8d8f310fd6dad8d9e855abfeedc7508a0e2fa3aa243bc50a0c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\05\05f8145605a169c2a49404e2beb42f1521de6aed078c337449868edd138a3434.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\07\0713081ad9d0156176a10e49cd45d711777d80971bf1ebb8030f2309c5c538a7.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\08\0805a75c66ab9eb951e7cda96a105807d3e7499db51a75a39277d5528fc08d2e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\08\0873b5575eb58ba9f69ab53a769c732b3e3b79aa0d9f855807bf6be48b66ddaf.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\09\0970558beac895e3d5138c9fff4f03ff771114ea676ff59d085c4910d338f7bc.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\0a\0a8b457578b203dea36b9a71546d7c89fb25a4299066f68cd502980f16b3252d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\0d\0d63ea2b220bfcbc6be571da11ceda54251e2a2521f78909d8f3bc4d587fe4f9.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\0f\0f58568932f8d8d81e4bb06f3d093afa1190347d240b662b9454cf5e79558725.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\12\1254970cc49330bdebb9ee4568df25ea50ec5f83881fb286db6aa8711077ed0b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\12\127a1f138f41f0d0f0bd623eac9b25589cabb7c28f4bfb9ea6009d0a86b93fb5.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\16\166afa872de6bb518a71b25ab59ec49bbf9a8a4c0176fb34a1d82b984bc9c967.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\17\178b20157e26b0ff324b0cc17562572a8f05dfe6d806ecc99413504f4fdc46b9.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\18\186f43c8a19ccb5b0277ed99e377d25beb9418c2c9431b51d41c47a4447cb978.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\18\18fc99f3a6aeae046bd8730a7623b84154067bd603623d20f9afaed9f0df33a6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\1a\1a30355575083239be49d9aa28e55df7a7a555f9c7a949299600cfd4667373d9.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\1c\1c42e126996c0ee2fcbb1f56d5a0a2ebf8347edf9f5e4930f91dfdd0aa178bea.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\1e\1e5d75713006ac66fed5eefaeb083ff745cefa7b0bfff19863241d0fee566dc3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\1e\1eac37f7ec47649492e4dc9b8a0404ae53b2eb9feb8270221ed82c566d08f49b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\1f\1f0d0ce15b92360cd722d3ce87c2e7b9e95678f03a24cfd1c4a149a7e447610d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\20\20b42a6369e65fece09a2720def68fa4697c3080df7b778aa42e15d35eb279cf.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\24\240611aa31fcc2913ca98f081c50dfe461d1c393d421ff7cc74a509fea97cf6d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\24\2473ef2ba8c56aec8f3817a5eca505558fbba3b47a6fb2117227657e0078fa94.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\26\26d319f36ffdd586b0d85cb83e797e89532103784f3d01da0a5fe4c9e6d7fd79.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\27\2755b68c07279e1ca29da187e962cca3f3ec7ea15c51086ecb083bc541b90778.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\27\27640d36ad79dcb55e6f7145ae46fb4615821f249f25f98ca33da06975e94411.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\27\278395520848f485520d13bc90413c63b156e62dc8735ba383847379edbbe849.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\28\283e07b3be93ecabddbdcfbf9e4289bcc309bc016ae57f226e25bcee13f92b36.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\2b\2bcd8da1ab1673c708d124aa87f517003d3346b47d8552f50eff35e1506e37b8.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\2c\2cd9bed5d87b2204cca88d5a1d2786b78084eb727cf854c24878d5f3628441e3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\2d\2de5bd3ed681cd168c7dcbd873098f561a25dc036264a32c5f456d989fb3f310.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\2e\2ec803769ad5aa00de05ecfa1fcf28be1f44fa13bd3462e20c8a4df3e50c7deb.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\33\33411c7d5e6677322dd4562a9985a5ccb3ce2972086f0fa6cea341fa98e1f013.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\33\33c18af957ee8ee8a0a55ef8dbec1ee7ee205b8057b0a2d150cc8b2c86e751f3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\33\33df95880582876ded7a7cb59a50736d4059a8da2b354ee8c931c138814c5bd3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\34\34053854140ae870d7590f436e4f7395479e91b21ffce195375c4b19a7f5e755.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\37\37cb246e844267bc8ec42e4f760dff1bd9f36c168f267b97038a9c0e65d825a0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\37\37dd5782911ac1a3420541ea6003b4fd31920390b87c5663c9b426655f2be6a1.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\38\38172964dee0cc2369e4262c774027f78cf9a476254ee8671b038a3f46843013.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\3c\3c55f756942ff29c45a0654a007a9a654b511681233ee268c46440c945b53a93.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\3d\3d82926111ca3968d0d948cb5e712d1514f09dc861313657f0ee3e7186763768.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\3e\3ec79e3fce94e95c56fe4ef0111b22d0c4a2cd6fb7e34a244bd5b9ab7dc637de.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\40\4051e3942b24964a55fe4caeebc2e572a900769563d1288d426b9e5bf33ee470.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\40\409c283cf2c7f92924d3f26d78590df476b0dfc907e721de1b2941b0e12de4f7.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\41\411be255fed470bd73fb936e95f5a803310f41bd65dac9606f7a4ac97997b5a2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\41\412fa472cdb3d08e7070e0af1eeece6fb9ea16af57de724ce0dce6e03bc66121.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\41\4178f17de7f3a67f0a74af0307f2aeabdc773cfbdeeba427d2226afde3787927.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\41\41c4368b17196ebc664138c67f58e3a0337d1431255eb1c99e5365b1d5035c41.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\41\41e8798d47113c5aafc5a98ad3eb4f3e2a5fc92fbd0cc726b151846a8e773719.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\42\42185f70be62dcf5b194f13770a3e19ed751d14f7329742115881d708f2bd4fb.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\44\4484d4cd60036ccf69daffd655555d8571190563bb27d67b9eb09e984d645c42.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\45\45aecf69b48c858908b98cc3af5c4839c137813dfb9886f5b7efc106693eef0d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\48\48bf2528fa59f5106cbd80f911863fb43722722fe72d90dc316e5db8dd0b139d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\48\48eae81b29519cfe7f1033b7af805ee5d2dc1683e1639a4a6eb9a84a9aaf7f88.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4a\4a6290d0350ae2793f285cc040972cdaaa87591cf3ccfd4b2fd8d5514d6e98fc.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4b\4b2cfc6f5a6f3816ccc0d749f6ccdd1e83ede5d49cfb66e2f48dd252624fd7a7.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4d\4d0b5013f1346516d57b731174a13f9f4e836e51fa1a38726fa86f84531affb6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4d\4dbcdc83d14af5cff8dd10ff464b049de51ecfe3144afb54fb4b92015bbbdf59.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4e\4e45393c2e3120b87d484dde8788539aa9096c815ae254da9c727bde72473379.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4f\4f99168c28acdc4cf41b09bb31ec4f04431d14ca1e52d6110c16ce9aaa826b5b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\4f\4fa09ec3772f8ba21c84d9ad0c24689ed3520580c7e01e9e4d172bc248e62116.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\51\51557f4340e8afe36d04c855347bead4f7bcf320a01f86805cfcf4e5844a0307.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\51\519ba603ab51d0c0e60c5758de3bcf3d126b64c330104f885caf14583543ccb4.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\52\52b7f12ef6fe9775f4f969a092ab3d3441ce83a96914a1d9e48a3b1e3ef86aa2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\52\52f35d4e394cb49437886b5a86d41da5702d7f15b1fa20100b048faab66918ea.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\52\52f62b6fc8065fdb3237d0fe016d14bf68d8a42494ac781b6dd5416ebdd9130b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\53\53b97a379acf9fffadf65b299d4e92a3bbe98074d8ab267afe99cec9d13fb39f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\54\54ced8b01f67b4cc1770d51952f35d3bb0bfc88472be134cd65bf109535bc75a.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\55\555b4569d27a2ba8bc2e9029e8fd269f0a6f02a97145fc01f6d27d0ca23716f6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\57\5735b224b1752ba13efddc373760b6112cc5f3dbed5aaa262627db24838e7909.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\58\5842eb4308091e73517c3ca41a7fdef58aeb22064720b928a0451ecdcea8d431.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\5f\5f01660d2c416ef4b3e53e2c213e340110eb2803b3a360142a4ca35849ee60f3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\5f\5f2dfebc27feaadb0f01135fc6176dc0cbf8cf9c0602ba13e3f7974623397646.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\5f\5f6db2d3a1142f0e32550ba535ec3dc1df41acc95b9c676ae14ff5144fda2b57.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\62\62bd4dbbbef01b84642bde44a95526ba50e0446dc42663364229ba024612d67f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\63\63c6ff82aa0dc5366a16b14df5a280148f3c4b65cc1c1e5d98570253aa2344d0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\64\6440752c427a1dae16e573a7671a1c3aec5a42f1a8fa25b911c68718555d8eff.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\64\6466661e507385e089af99f82ae623c0c427f538f554489706ab2a1219781ecb.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\66\669c2e7f1cc9b6203cb230dac48f632cb46337cc73032b52e24f18d5485f7bc0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\68\68279e75e7ad9b0ba5d8811f712344a3d16cec74554448cd25d421e5955d9c1e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\68\68c304958cb1d2efd198f89d1ad82eee19f82a2adb7c4a1035e2ed89ba497d03.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\68\68d43adf500f09779be2a193766542ad1a565d59b9e85d2987a0726b3a07604c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\6d\6db4f50a2f70e7c6bfee2832c93d983f9c1a8e6013b19b72275371ee692a018b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\6e\6e5ed8d3f7067eb21ae9222d6bbb64ac6ed5aecbbae948714a11420f358e6065.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\6e\6e847363217b450db552f38da8005fb72d29525d791900092865c683b1e334ed.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\70\702a28f0b86d0e883e4f1196ee2db699ad97bccc89f9bfd79b5767c30ca9031c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\72\72fb9c3e7bb5e4445aff0425497a93e8101cbcc6f3a3ddb78596893772c420cf.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\73\733534f9b6e525288eee7f7d57bfe57692bff247c0c0188d4897705e3cf1b932.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\73\73724593c0365ea1474ffef527af2244212bd6142acbe945af83643ce4faa1eb.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\75\75347798363ecc3161392cb09ee2f419fcf283b78fca88b60b4dac980e2572e5.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\76\76c6fc6018e37f5bc978cb467b8c4d987dfdd270ae53de1a074b61abcddadf6b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\77\7771b028663db3ff75814d98a0748252b8222709facb06f0cba3a06df7838eb7.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\78\78212d8f631f7aaa0e9e00ef55d82fb85e36f8ac0e02d02985047046ddc11211.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7b\7bc1eaca3d939fad5d78b949de7e6b2374fcc331890886090e9b60345d24c6ff.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7c\7c2b6aff64944e528004fa777a2eae70ae791f024339f6eb6cb026a4aa223046.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7c\7c3ebe5903f4cdd878c7cdf836342039e3aa926eb3205849f13586058f26275e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7c\7ca3399d7355505653f2542bfdac77968dc20135ed2b7dbdc9a72d99008a2754.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7e\7e4eb0302e74502d3d2782e1fa6b575d5f05d47b3c2124d2ea70263387763646.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7e\7e7088b55464e865577e7f0a865783a2c4988a3c6c0782f520fdd9443b5242da.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\7f\7fce2b445708a89d63c2632133079d70133815a5fae6b4a4f760c3f80c611df6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\80\803b57fefb4af257263766ed4ba07ff79f2e7867bdbbd57c48814187ff36e531.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\84\8436a35234428d619de0a87c2b99e4791d10b8a65608743855a21c6cb5edc195.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\84\843b222358fdd2246092d85beceed8e08dd9aff351c62ec64fb69cb7e8851717.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\85\853143b257551c584bde9f8fc828824837d48d2753369e2388e852942785ed77.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\85\85e09b32665f469ca94a04cdfc96faea56acfb39baae422b30d1af4a130c45d9.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\89\89309084afd48dc2f0c7fdb4c94cf0ae50cd2d2ebdb0f579b271ec9de3786010.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\8c\8c081a4dcd3e3b747e914dd308c951a3027b06a0e7d692dcd2294aea5f2078a7.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\8c\8cf6ffc682c7d58e90e31de6c3e95234362293cabea2e47fb3c7c1a96d68545e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\8f\8f4b8952f1df07a25634e7f303405c43259f01b4e6d2f139c32c7c8ef8ca9fa7.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\90\902164814a231cf682e310a3270aa82ba99b5f82ec4370fef260ea3358837a48.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\90\905603c05325edd77f1826fcc373b0c783e5f646d3d2eadef1cef2e869012ec0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\90\908adac239aa170167974c1a344ad8d73cef5ffe101153c0a49d81cbdcacd345.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\91\910d54696b912f41d676710fccbb2124e7155c3bb1c2a4ce89ed3170e301680e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\91\91167967fb4f80824d273075c0cc19e1d2e7e5e87ab009f951e823c18db7f415.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\91\911ecc6148f2e0fb50c68119d68e2aa43e339a6e29ef5b1640a575855cba2dde.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\91\91bdcd439dc66641a5ff0870fc31f3b4525090400cc6d96440a4d4977fec7914.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\92\92350b50682fe121cf96b4e1cece1563318f3e83a02182e75df5f7ea1482bc3f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\93\93eefd9a57b7ad14b53ff1d0b7902fa73801678e9772f7539823882a238204c2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\94\940bd6fb7f731d1eb0ccdaf31073c6e7e85e7cc435ee4a9a89e4cdf8272f90a2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\94\944c38bc949529b0855cd2607c3ce7845d62743721495e9135b516afaf2cf0f1.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\94\9465310d76366d06615fa2e1b2e2ec12a707ff6e5ca83201e11e833743ea8d6e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\94\9465e5f7fad2fda113165b81cd2f5dd9da5c8f9629a4ab2cd8f6692a8a98e5de.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\96\960032e65f3644a9d5accd09c44af01f534c816a1eedc35ad2cbf9cce09e7ae9.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\96\964ea601b82d0eb65ab7582e6a67a7dfc6da74485f09e7c97bbc2a3077163e99.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\98\989120ebd6ffba480544af8164144d0a37965e31eede23d105364c19639f5b58.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\98\98e72ffdf179f1a230fcca1d4ab5387306cbd50152c0828bb817bcd5238f24c0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\99\99025eb2ffab12f00be4f8e14d8872013d75fb186a99f03a886d27d2c7208e1e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\9a\9a6d8996453d05a96d88ce802575b0cf169687236255843180e0d53ef700de50.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\9b\9b27d4b6a651fa9f8120c25741e1cd295c25493f9a6b80e3fe2e20ab76a063f3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\9b\9b6f543e0a08e4c41acf1c23ab099dded4b1b3b8976fb7692fcfab5d3c45a8cb.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\9c\9c6e2d5b038d3450958988c8c11ccb50fc517457efe383386e8eec43f0ddda2f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\9c\9c7c6569d4577930db3150d80b87ef1b6bbb1d9f797c1ab68cef8fbbf7dbd17f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\9f\9f6c05147a8b753624abddd7ec9423fa0fcb8afe607494f9f8066db51d81058e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a0\a0a0baf2463500e53c0dec22c8a60a40fc06b46322da82d1871c47377e1dd78d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a2\a20ade398797b76238671a51b445f96029c7a497b2e2a926565ecb0fd6fca206.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a2\a214070525d5caff1adb1b6bb1253ff8400d5fcbcad0f2e776bcde6c2bab72c3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a2\a22b5b0a2d10bb8c725dc4676514e63817431ca6399422f1a337e2d84146b847.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a4\a4393f02e422125f318956ffb7f1db17dcdf8092032fcc26e6aca525a03b1124.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a6\a64b35ecdafdebf0030bbb5bb87432a6b8e23183d947442abe6cc66c5cf2cd1f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a6\a6e97de7b07f16fd2683f0ddfc55aa0ddfbd5f5b994494aad92bcff7c358d4c3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a7\a79de38173b716728f31212032dccd1e8e63bf1870e174b62b992102d6f39be1.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a8\a833f6136a3c819539aa8c166ffd6f4f48b19082d39821f32185662a872f7b5f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\a8\a8bde6c89dd267de960a8a4388709433867512102ae2563d857f9f3ed42eb323.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\aa\aaf313e8b007519cdf6f338e8523fd4236d1f0e51f0ef8334cec4098be29e390.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ab\ab4e86a54974ca98ba782770a3aa88d0f72abeb89a1287d4e4b67c1ff43a7838.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ab\ab683c15ecd81d62498b6bc1810ca10aa38704c441eb40ee802710e741b59298.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ac\acc0949867454cd2be20dcf0f3463d71c60d13fb35177dd569015e0c2e97c6ba.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ae\aedb55dc21308e0a77679f9bb116f0a77a5c884d515ecc40e43f55747a563a4e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\af\af301c135720506f47eceb12060412a118afe4fa78f27848dc34165d37f923f2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\af\af849b75025c99f6b9c2cf06b88e310e9eab07bedb47609ebef951f4a172b2c8.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\af\afd86ad174920529072ed9c96e8f9d1e71454bd01a4244ff048d4704b1882f07.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b0\b0faac8bcc545733a8a92a419fbde939365e3b18e76b5640e3b9bcedc6b42e0f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b1\b1ba95db7e9c6488fe6a17ad8f8213a9068f22937e21ca158a4f967f48ff250a.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b2\b2c8b95ed0c2cd67657ea8bbc2d3ed6227a5e272beef33ab6c462522d1064b18.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b2\b2edad7a029d55012c5cf1d5ed63d5f088ee67303d5f3984695c54f4ce26186d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b3\b33fcd2a740b38dd5f22a63c11656993a8bb1b645213193c07bd4f62975a7872.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b3\b38a73e59207b8e58ad002a330919a400abce02a86d7345e5d15e65a9bc97742.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b5\b53d54dd8216df72f194b0331807fbe7aa99936f8f9af0ba638d378eb84c58e3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b7\b7f5051613ace4f6b457853a096206dc7c09b4ef40614103791c7bd0a10ba591.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b8\b8cceb4bfdd5db5f0f26cb7d01f4cbcb8eb8adfd781f9196b1e7be19b602215d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\b9\b9f3ddc72782fe9f956b707d7e8e97ab637ce5913d44244c114e86ee09cc0770.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ba\baf65819284b2488627ae6f130df25ce594883bfb81548310d94637f4c64fd78.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\bb\bb07db5db07e8f165f0bd31c5f47f6c44c4afa0e937f97badb1fd48d0549f29c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\bc\bcc4ad4d63fe03944714922a9ffbab0a3f6ea096b251d9e84e27c8109de70aef.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\bd\bd94d43dd0af708c1a7763f988afebc4742d826fc5874468585337e887ac9796.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\c0\c0c03c94ece9508fd942202db8d343fa8aca4d0807fc7dd917c1ce6abda31289.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\c1\c1c2b15f4a71684abdf2b82e561282b506ab6792e61436afa6f332d1b28024de.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\c2\c2b1634a85a6312dbf93037dca7b73ec7082ae50f5a166b6284599ef8a7f457d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\c5\c54d3c174f00cbf4a4f9c68baaf50f0d4631e84cdf79d1a63a6887e9abaaefd6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\c7\c7d2a49b3ae9bfe2307f0aa438c8354edc26aa41be703615065a3fe2dbd794a1.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ca\ca5f16d579c2bfa43d6aa599623751618d326a6baaa9b0b2bbd6bc6243089c04.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ca\caa966a0ba46be29baea2c06747f1f613a2a49eb7a242c41072a489ff07f2c09.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\cc\cce4d544a63646e3b673e945272dd4e4b53aff3ce849beaf21aa8eb17ac9a9d2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ce\ce9c6b6a42fdcfab476b6367829089543059a44510f803523e83f2af8a99eabe.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\d1\d1a1da2ac7605f6029f61e26ae2f54e677a08e747e376ab75d53b1a9430a11f6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\d2\d277e0656baf8f2265f67a1f14fb868195b03c91710d5a0b64de1da15090c7f3.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\d3\d38e117321a18ff17d03c8a6f694f89b1365bdbb31b7bb0a0664d0ed44ab26cf.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\d5\d51838378076ccd7e408a99fb6ef19c3f8c88020722bdad8bfff1fcfdb73d422.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\d8\d8e0b4fa7785321dc6e4fba7a0e74d52713698d1e5a951bce160df26eeb4d52f.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\dc\dc9dd7b1813b049a99664818a179cad7c3602a3309120c28c60fcb09236fe1dc.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\de\de50b2539751379d1b59b3bc4b8a87c564559c8d2fcc6a01f1bfe6dae23f2971.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\de\de76c8bd378af6a171c9f82db9a1e62e33bf8d2d512af1f2ab5130e30ef9ce8d.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\df\df3f6ddda44ed8fb7cea90aca8adb574bbe11cb224a3b1b977e4d9344ff2036e.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e1\e1e17425ed710ed44b64769d2d10d18e526b63d94ed3763dddee9e9c8054a975.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e2\e25488746422a1a0e9cf9f73b0170519bfd014ad2ebf4974d6e253f09bf7b235.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e4\e43bc91032fface597476788cbaea292601716bc1cef5662a0574f33fa60d6b9.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e4\e4d2e3df278418ea843ab20f8fcbbb3ab04b59132887ba82c15ca7eaafdd12bc.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e4\e4f0920c0b062b1c9e83fec8da817873b960791cccdc0a4eb2bc93a98f968db5.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e6\e64d94332828d9f6e133c32f0da74f6d4af40f5df053399e7de5c9befaf4064b.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\e7\e76c6e77d2912acb53bbf69d0d9a7c2dab51b232e7516a5f4dc9ba181414ffc2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ea\ea2a9627d2e43194f9788406d9ef06549a4d2e00ed1a72ac9925b5bb01a09b9c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ea\ea7fc24dbfd016809bf8fe53bf5207165a1fd2f0f28c94c95832f41708945fa0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\eb\eb5ff8d895b8aa1330d22969fb937f38554df09536ee2db927e6058d8249c014.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\eb\ebb5d1b15ae1191037b2c8dc8ac0acc74f1aadd64195a0c267bd358bfa3d9089.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\eb\ebfc0f0404c266c4328d4c942b6a676f516d507345f08034cffda623a9ed8529.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ed\edd2bd7c4734a3ceb66a787e6a6345ab73b6215bfd9eebc1cc1b6bd161eb10e8.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f1\f10ab392e796f4cd751fbd7f34e0e16aa306dafd7d3c38296bde8f287fc0be76.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f4\f4aa5788003c19a982f2b64b39717d4b13c6c68362bb2004a3e9566949135161.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f5\f56e78b4f37f87c98085d0be92b1c1569f705f5a1a5b06a0e772f6bf1d0863a6.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f5\f5bfd6cdae4455616742c961568f3fc6a3bd6bc695796b056aae3ebb26f06d46.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f5\f5d96f95821247b53f7aa7341b580a173dc807979c2c4fe931710bc08143555a.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f7\f77817059d1d030e56a80b4106d3e3036f8e0eeaabd3783998e7dca0a0027aa0.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f8\f8bb0ae52725b9fa607385291a80e0e63ce9a8c4577ad4e126a27dfa183534ba.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\f9\f953023f2b59ff1839e9ebf572d21b9df0937358e89c655185fb4464d186a22c.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\fa\fa91f1ba0dedb92e1402d15956b82fe1ae2460743e94046c35f95ca4845983f2.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\fc\fc3a5a6c40388984c1c4c83625978501f0624514a83b50300a3c2068e0db2412.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\twig\ff\ff37e8af41d580f14c9b2b31af34a2a8fe41378794258b4965e3e7827c2b6d55.php" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\config\xml\blog-en.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\config\xml\trusted_modules_list.xml" afterPath="" />
-      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\config\xml\untrusted_modules_list.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\app\cache\prod\smarty\compile\layouts_layout_full_width_tpl\7f\98\d6\7f98d669c5babcf79da2e78261afd9a87170074d.file.404.tpl.php" afterPath="" />
       <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\themes\classic\assets\js\components\featured-products-slider.js" afterPath="" />
       <change type="DELETED" beforePath="E:\xampp\htdocs\prestashop\demo\themes\classic\assets\js\lib\swiper.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/05/22/c2/0522c243a50f40398fe3735aae2309e60e2bef70.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/05/22/c2/0522c243a50f40398fe3735aae2309e60e2bef70.file.content.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0b/ea/13/0bea132440c827ce50683bfe2ee7d35aaf846586.module.gm_categories.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0b/ea/13/0bea132440c827ce50683bfe2ee7d35aaf846586.module.gm_categories.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/5e/25/0e5e256ccea6e76887b2a2767f455d7727986b19.file.form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/0e/5e/25/0e5e256ccea6e76887b2a2767f455d7727986b19.file.form.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/11/0e/c7/110ec72aa9921d2c382ad628bdb2f0bc5105a617.module.ps_searchbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/11/0e/c7/110ec72aa9921d2c382ad628bdb2f0bc5105a617.module.ps_searchbar.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/20/c5/69/20c5692ca350c4580b69c2148431df5787b65fed.file.product.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/20/c5/69/20c5692ca350c4580b69c2148431df5787b65fed.file.product.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/ea/20/32ea20c34fdaf98f1b8807e65f8d15f7dcf20aa2.file.modal.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/32/ea/20/32ea20c34fdaf98f1b8807e65f8d15f7dcf20aa2.file.modal.tpl.php" />
@@ -605,7 +23,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" afterPath="$PROJECT_DIR$/app/cache/prod/doctrine/cb/5b656e5f6c6f63616c5f6d6f64756c65735d5b315d.doctrinecache.data" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6c/cf/9d/6ccf9d81fcf412fbe6df5e78c32d3ac034e62e57.file.popup.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6c/cf/9d/6ccf9d81fcf412fbe6df5e78c32d3ac034e62e57.file.popup.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6e/fe/2a/6efe2af5936cdd35e4a4e40182b3dd1c2783043b.file.notification_bt.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/6e/fe/2a/6efe2af5936cdd35e4a4e40182b3dd1c2783043b.file.notification_bt.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/7f/98/d6/7f98d669c5babcf79da2e78261afd9a87170074d.file.404.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/7f/98/d6/7f98d669c5babcf79da2e78261afd9a87170074d.file.404.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/86/54/b2/8654b2ba7ef103395c5eb0a4a12ed7463d291bc8.module.ps_customtext.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/86/54/b2/8654b2ba7ef103395c5eb0a4a12ed7463d291bc8.module.ps_customtext.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/48/f8/9048f8d4ee31fbcc000d075c31856d6a360c68b5.file.javascript.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/48/f8/9048f8d4ee31fbcc000d075c31856d6a360c68b5.file.javascript.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/65/48/906548e89c8c6025457ddaeffb1980a0c743b872.module.linkblock.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/90/65/48/906548e89c8c6025457ddaeffb1980a0c743b872.module.linkblock.tpl.php" />
@@ -614,10 +31,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/9a/1f/29/9a1f29e13800c3d225d3399d1a55cdd0601ef102.file.index.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/9a/1f/29/9a1f29e13800c3d225d3399d1a55cdd0601ef102.file.index.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9a/ed/33/9aed3385b980b743aedad94898ef7c3521cdc93c.file.search_form.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9a/ed/33/9aed3385b980b743aedad94898ef7c3521cdc93c.file.search_form.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9f/fc/00/9ffc009d1b66ea89054a8e253403b7d3a67d8150.module.blockreassurance.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/9f/fc/00/9ffc009d1b66ea89054a8e253403b7d3a67d8150.module.blockreassurance.tpl.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/ps_mainmenu/MOD_BLOCKTOPMENU_MENU_JSON_1_1.json" afterPath="$PROJECT_DIR$/app/cache/prod/ps_mainmenu/MOD_BLOCKTOPMENU_MENU_JSON_1_1.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a6/06/68/a60668be841e70b7474c3c16b96fa2ec15c5d9f4.file.tooltip.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/a6/06/68/a60668be841e70b7474c3c16b96fa2ec15c5d9f4.file.tooltip.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/appProdProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/prod/appProdProjectContainer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c1/4a/ec/c14aec8dbeb46108b6aeb9bfc31382fa0442b720.file.content.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/c1/4a/ec/c14aec8dbeb46108b6aeb9bfc31382fa0442b720.file.content.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/cacert.pem" afterPath="$PROJECT_DIR$/app/cache/prod/cacert.pem" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ce/90/8e/ce908e3af500ef88d0be39d6badc82307b6995cd.module.ps_sharebuttons.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/ce/90/8e/ce908e3af500ef88d0be39d6badc82307b6995cd.module.ps_sharebuttons.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/assets/css/custom.css" afterPath="$PROJECT_DIR$/themes/classic/assets/css/custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/assets/js/custom.js" afterPath="$PROJECT_DIR$/themes/classic/assets/js/custom.js" />
@@ -627,15 +43,13 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c.module.ps_customersignin.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d5/f8/f5/d5f8f570180f74d1dbdd1a1d2af0445e90a6650c.module.ps_customersignin.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/3f/e7/d73fe75ff3f5fc4c145622e8f3a8bbea47d88c67.file.navbar.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/d7/3f/e7/d73fe75ff3f5fc4c145622e8f3a8bbea47d88c67.file.navbar.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/df/d6/f6/dfd6f618cfd7ce3a4853f31b1ae46cce2dd23485.file.lost.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/df/d6/f6/dfd6f618cfd7ce3a4853f31b1ae46cce2dd23485.file.lost.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ee/60/b3/ee60b32e788968538a5291efc0cba376da31f250.file.page.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/layouts_layout_full_width_tpl/ee/60/b3/ee60b32e788968538a5291efc0cba376da31f250.file.page.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fa/6c/c3/fa6cc378d2942c8857b89d6bca728048c0caeedd.module.ps_featuredproducts.tpl.php" afterPath="$PROJECT_DIR$/app/cache/prod/smarty/compile/fa/6c/c3/fa6cc378d2942c8857b89d6bca728048c0caeedd.module.ps_featuredproducts.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/_dev/js/components/featured-products-slider.js" afterPath="$PROJECT_DIR$/themes/classic/_dev/js/components/featured-products-slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/gm_categories/gm_categories.php" afterPath="$PROJECT_DIR$/modules/gm_categories/gm_categories.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl" afterPath="$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl" afterPath="$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" afterPath="$PROJECT_DIR$/config/xml/modules_native_addons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" afterPath="$PROJECT_DIR$/config/xml/must_have_modules_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl" afterPath="$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/modules/ps_customersignin/ps_customersignin.tpl" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_customersignin/ps_customersignin.tpl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/ps_customtext/ps_customtext.tpl" afterPath="$PROJECT_DIR$/modules/ps_customtext/ps_customtext.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/modules/ps_searchbar/ps_searchbar.tpl" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_searchbar/ps_searchbar.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" afterPath="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/_dev/js/lib/swiper.min.js" afterPath="$PROJECT_DIR$/themes/classic/_dev/js/lib/swiper.min.js" />
@@ -665,38 +79,79 @@
       <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/classic/assets/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.224138">
-              <caret line="198" column="23" selection-start-line="198" selection-start-column="23" selection-end-line="198" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="312" column="40" selection-start-line="312" selection-start-column="40" selection-end-line="312" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.tpl" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/miniatures/product.tpl">
+      <file leaf-file-name="breadcrumb.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/breadcrumb.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30078563">
-              <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+            <state vertical-scroll-proportion="-17.642857">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout-both-columns.tpl" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/classic/templates/layouts/layout-both-columns.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4221252">
+              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gm_categories.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3097345">
+              <caret line="215" column="31" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
+              <folding>
+                <marker date="1510832083495" expanded="true" signature="5603:6065" placeholder="SELECT c.id_..." />
+                <marker date="1510832083495" expanded="true" signature="5603:6309" placeholder="SELECT c.id_..." />
+                <marker date="1510832083495" expanded="true" signature="5603:6624" placeholder="SELECT c.id_..." />
+                <marker date="1510832083495" expanded="true" signature="5603:6637" placeholder="SELECT c.id_..." />
+                <marker date="1510832083495" expanded="true" signature="5603:6638" placeholder="SELECT c.id_..." />
+                <marker date="1510832083495" expanded="true" signature="5603:6641" placeholder="SELECT c.id_..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gm_categories.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.9767442">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+              <folding>
+                <marker date="1510835159066" expanded="true" signature="98:806" placeholder="..." />
+                <marker date="1510835159066" expanded="true" signature="122:798" placeholder="..." />
+                <marker date="1510835159066" expanded="true" signature="172:783" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl">
+        <entry file="file://$PROJECT_DIR$/admin030d4c6z9/themes/default/template/header.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0">
-              <caret line="64" column="72" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="72" />
+            <state vertical-scroll-proportion="-9.107142">
+              <caret line="89" column="68" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ps_customtext.tpl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/ps_customtext/ps_customtext.tpl">
+      <file leaf-file-name="error.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin030d4c6z9/themes/default/template/error.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.071428">
-              <caret line="34" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.25">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -711,14 +166,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/modules/gm_categories/gm_categories.php" />
-        <option value="$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/catalog/listing/category.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/assets/js/components/featured-products-slider.js" />
         <option value="$PROJECT_DIR$/themes/classic/assets/js/custom.js" />
         <option value="$PROJECT_DIR$/themes/classic/_dev/js/components/top-menu.js" />
         <option value="$PROJECT_DIR$/themes/classic/modules/ps_customersignin/ps_customersignin.tpl" />
-        <option value="$PROJECT_DIR$/classes/controller/FrontController.php" />
         <option value="$PROJECT_DIR$/modules/ps_shoppingcart/ps_shoppingcart.php" />
         <option value="$PROJECT_DIR$/themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl" />
@@ -732,6 +184,10 @@
         <option value="$PROJECT_DIR$/themes/classic/_dev/js/theme.js" />
         <option value="$PROJECT_DIR$/themes/classic/_dev/js/lib/swiper.min.js" />
         <option value="$PROJECT_DIR$/themes/classic/assets/js/theme.js" />
+        <option value="$PROJECT_DIR$/classes/controller/FrontController.php" />
+        <option value="$PROJECT_DIR$/modules/ps_categorytree/ps_categorytree.php" />
+        <option value="$PROJECT_DIR$/modules/gm_categories/gm_categories.php" />
+        <option value="$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl" />
         <option value="$PROJECT_DIR$/themes/classic/assets/css/custom.css" />
       </list>
     </option>
@@ -776,6 +232,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -818,11 +275,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -836,19 +289,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="ps_categorytree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -862,21 +307,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="classic" />
+              <option name="myItemId" value="ps_categorytree" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hook" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -942,7 +394,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30200633" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2154171" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -973,203 +425,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/ps_banner/ps_banner.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62637365">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/gm_categories/views/templates/admin/_configure/helpers/form/form.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.53983516">
-          <caret line="10" column="120" selection-start-line="10" selection-start-column="120" selection-end-line="10" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ps_banner/ps_banner.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.104395606">
-          <caret line="207" column="27" selection-start-line="207" selection-start-column="27" selection-end-line="207" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.127907">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/breadcrumb.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5993432">
-          <caret line="173" column="35" selection-start-line="173" selection-start-column="35" selection-end-line="173" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/layouts/layout-both-columns.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.535714">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products-bottom.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15939598">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products-top.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2533557">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/ps_legalcompliance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3489933">
-          <caret line="1021" column="28" selection-start-line="1021" selection-start-column="28" selection-end-line="1021" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/category.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33221477">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/manufacturer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63255036">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/new-products.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12751678">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Core/Addon/Theme/ThemeValidator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3489933">
-          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/product-list.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/config/theme.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="121" column="21" selection-start-line="121" selection-start-column="21" selection-end-line="121" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/_dev/js/product.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30015796">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/_dev/js/listing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1800948">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/_dev/js/components/drop-down.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31773666">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/_dev/js/components/top-menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6378897">
-          <caret line="41" column="53" selection-start-line="41" selection-start-column="53" selection-end-line="41" selection-end-column="53" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_mainmenu/ps_mainmenu.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0991735">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/assets/css/theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="50.227722">
-          <caret line="6" column="201353" selection-start-line="6" selection-start-column="201348" selection-end-line="6" selection-end-column="201353" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/_partials/products.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21487603">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/_dev/img/facebook.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/_dev/css/components/footer.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4636678">
-          <caret line="81" column="52" selection-start-line="81" selection-start-column="52" selection-end-line="81" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ps_customersignin/ps_customersignin.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1570248">
-          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/front/GuestTrackingController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34876034">
@@ -1190,7 +445,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.47438017">
           <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1206,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.214286">
           <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,25 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.5">
           <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classes/controller/FrontController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77115387">
-          <caret line="1465" column="20" selection-start-line="1465" selection-start-column="13" selection-end-line="1465" selection-end-column="20" />
-          <folding>
-            <marker date="1510745501349" expanded="true" signature="-1:-1" placeholder="SELECT id_gr..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/defines_uri.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3322314">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1240,15 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.2909093">
           <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0">
-          <caret line="64" column="72" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,13 +481,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4661157">
           <caret line="266" column="261" selection-start-line="266" selection-start-column="0" selection-end-line="266" selection-end-column="261" />
-          <folding>
-            <marker date="1508764792000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
-            <marker date="1508764792000" expanded="true" signature="-1:-1" placeholder="CREATE TABLE..IF..." />
-            <marker date="1508764792000" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
-            <marker date="1508764792000" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
-            <marker date="1508764792000" expanded="true" signature="-1:-1" placeholder="SELECT r.`id..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1278,7 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.030015798">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1286,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.15007898">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1294,9 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.69966996">
           <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1305,16 +519,8 @@
         <state vertical-scroll-proportion="0.036334913">
           <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54380167">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1322,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33211678">
           <caret line="14" column="17791" selection-start-line="14" selection-start-column="17785" selection-end-line="14" selection-end-column="17791" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1330,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.071428">
           <caret line="34" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1342,11 +546,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/classic/assets/css/custom.css">
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.224138">
-          <caret line="198" column="23" selection-start-line="198" selection-start-column="23" selection-end-line="198" selection-end-column="23" />
-          <folding />
+        <state vertical-scroll-proportion="0.18967453">
+          <caret line="64" column="72" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -1354,6 +557,369 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30078563">
           <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/module/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34343433">
+          <caret line="150" column="14" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="14" />
+          <folding>
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT m.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_m..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_h..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT id_me..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_a..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_s..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_m..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT m.nam..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT m.id_..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT m.* F..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_h..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT hm.`i..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_m..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT id_mo..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_m..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `slug..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `slug..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT m.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_m..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `posi..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Context.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34343433">
+          <caret line="67" column="11" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrestaShopBundle/Tests/Controller/ControllerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34871796">
+          <caret line="76" column="20" selection-start-line="76" selection-start-column="20" selection-end-line="76" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/c/10-category_default.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/c/10.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines_uri.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61025643">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_categorytree/category-tree-branch.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61709404">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_legalcompliance/ps_legalcompliance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35">
+          <caret line="1021" column="28" selection-start-line="1021" selection-start-column="28" selection-end-line="1021" selection-end-column="28" />
+          <folding>
+            <marker date="1508764804000" expanded="true" signature="-1:-1" placeholder="SELECT id_li..." />
+            <marker date="1508764804000" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.29174313">
+          <caret line="676" column="53" selection-start-line="676" selection-start-column="53" selection-end-line="676" selection-end-column="53" />
+          <folding>
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_a..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/supplier.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73134327">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Core/Addon/Theme/ThemeValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53731346">
+          <caret line="132" column="39" selection-start-line="132" selection-start-column="39" selection-end-line="132" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/Image/ImageRetriever.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3485114">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/ObjectPresenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2329247">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/front/listing/CategoryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7093024">
+          <caret line="141" column="35" selection-start-line="141" selection-start-column="35" selection-end-line="141" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/product-list.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0930233">
+          <caret line="38" column="79" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/catalog/listing/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75147057">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/controller/FrontController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.030546624">
+          <caret line="197" column="55" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="55" />
+          <folding>
+            <marker date="1510745501349" expanded="true" signature="-1:-1" placeholder="SELECT id_gr..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Link.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33235294">
+          <caret line="1276" column="56" selection-start-line="1276" selection-start-column="56" selection-end-line="1276" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Adapter/Category/CategoryDataProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43088236">
+          <caret line="110" column="41" selection-start-line="110" selection-start-column="41" selection-end-line="110" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin030d4c6z9/themes/default/template/error.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.25">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.5524755">
+          <caret line="144" column="43" selection-start-line="144" selection-start-column="32" selection-end-line="144" selection-end-column="43" />
+          <folding>
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.id_..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_c..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_p..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT cl.`l..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.*, ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_c..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT ctg.`..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT ctg.`..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT cp.`i..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT MAX(c..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT cp.`i..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT c.`id..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT DISTI..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_s..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_c..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_s..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1508764756000" expanded="true" signature="-1:-1" placeholder="SELECT `id_c..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/cache/prod/class_stub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34991118">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin030d4c6z9/themes/default/template/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.107142">
+          <caret line="89" column="68" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin030d4c6z9/themes/default/template/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35064936">
+          <caret line="11" column="134" selection-start-line="11" selection-start-column="112" selection-end-line="11" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_categorytree/views/templates/hook/ps_categorytree.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28781793">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_categorytree/ps_categorytree.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28647926">
+          <caret line="119" column="52" selection-start-line="119" selection-start-column="52" selection-end-line="119" selection-end-column="52" />
+          <folding>
+            <marker date="1510823494938" expanded="true" signature="-1:-1" placeholder="SELECT c.id_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.9767442">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <marker date="1510835159066" expanded="true" signature="98:806" placeholder="..." />
+            <marker date="1510835159066" expanded="true" signature="122:798" placeholder="..." />
+            <marker date="1510835159066" expanded="true" signature="172:783" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/gm_categories/gm_categories.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3097345">
+          <caret line="215" column="31" selection-start-line="215" selection-start-column="31" selection-end-line="215" selection-end-column="31" />
+          <folding>
+            <marker date="1510832083495" expanded="true" signature="5603:6065" placeholder="SELECT c.id_..." />
+            <marker date="1510832083495" expanded="true" signature="5603:6309" placeholder="SELECT c.id_..." />
+            <marker date="1510832083495" expanded="true" signature="5603:6624" placeholder="SELECT c.id_..." />
+            <marker date="1510832083495" expanded="true" signature="5603:6637" placeholder="SELECT c.id_..." />
+            <marker date="1510832083495" expanded="true" signature="5603:6638" placeholder="SELECT c.id_..." />
+            <marker date="1510832083495" expanded="true" signature="5603:6641" placeholder="SELECT c.id_..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/modules/ps_featuredproducts/views/templates/hook/ps_featuredproducts.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35344827">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/ps_featuredproducts/ps_featuredproducts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35344827">
+          <caret line="62" column="79" selection-start-line="62" selection-start-column="79" selection-end-line="62" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="312" column="40" selection-start-line="312" selection-start-column="40" selection-end-line="312" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/_partials/breadcrumb.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.642857">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/classic/templates/layouts/layout-both-columns.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4221252">
+          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
           <folding />
         </state>
       </provider>
