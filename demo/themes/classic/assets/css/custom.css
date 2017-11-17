@@ -28,6 +28,19 @@
     font-style: normal;
 }
 
+.container-fluid {
+    padding: 0;
+}
+
+.row {
+    margin-right: 0;
+    margin-right: 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
 body {
     font-family: 'Myriad Pro';
     font-size: 14px;
@@ -255,7 +268,25 @@ body {
 
 .footer-container {
     margin-top: 0;
+    padding-top: 30px;
     background-color: #e4f2f1;
+}
+
+.links h3 {
+    letter-spacing: 2.8px;
+    color: #555555;
+}
+
+.footer-container .links li a,
+.social-links p {
+    font-size: 12px;
+    line-height: 2.33;
+    letter-spacing: 1.2px;
+    color: #7d7d7d;
+}
+
+.social-links p {
+    margin-top: 5px;
 }
 
 /* PRODUCT THUMBNAIL */
@@ -327,4 +358,24 @@ body {
     color: #7d7d7d;
     background-color: #fcf0f2;
     text-align: center;
+}
+
+/* INSTAGRAM MODULE */
+#gm-instagram {
+    margin-top: 35px;
+    padding: 32px 0;
+    background-color: #f9ebee;
+}
+
+#gm-instagram img {
+    width: 100%;
+}
+
+#gm-instagram .gm-instagram-title {
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.56;
+    letter-spacing: 1.8px;
+    color: #7d7d7d;
 }

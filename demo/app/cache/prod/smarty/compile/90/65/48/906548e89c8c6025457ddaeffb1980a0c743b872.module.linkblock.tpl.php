@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-16 12:59:25
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-17 05:44:56
          compiled from "module:ps_linklist/views/templates/hook/linkblock.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:123055a0dd1fd0f4337-03141439%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:108825a0ebda8be3509-77028733%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '906548e89c8c6025457ddaeffb1980a0c743b872' => 
     array (
       0 => 'module:ps_linklist/views/templates/hook/linkblock.tpl',
-      1 => 1508764756,
+      1 => 1510912876,
       2 => 'module',
     ),
   ),
-  'nocache_hash' => '123055a0dd1fd0f4337-03141439',
+  'nocache_hash' => '108825a0ebda8be3509-77028733',
   'function' => 
   array (
   ),
@@ -24,17 +24,17 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0dd1fd114c38_12774267',
+  'unifunc' => 'content_5a0ebda8c120e5_26285840',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0dd1fd114c38_12774267')) {function content_5a0dd1fd114c38_12774267($_smarty_tpl) {?>
-<div class="col-md-4 links">
+<?php if ($_valid && !is_callable('content_5a0ebda8c120e5_26285840')) {function content_5a0ebda8c120e5_26285840($_smarty_tpl) {?>
+<div class="col-md-10 links">
   <div class="row">
   <?php  $_smarty_tpl->tpl_vars['linkBlock'] = new Smarty_Variable; $_smarty_tpl->tpl_vars['linkBlock']->_loop = false;
  $_from = $_smarty_tpl->tpl_vars['linkBlocks']->value; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array');}
 foreach ($_from as $_smarty_tpl->tpl_vars['linkBlock']->key => $_smarty_tpl->tpl_vars['linkBlock']->value) {
 $_smarty_tpl->tpl_vars['linkBlock']->_loop = true;
 ?>
-    <div class="col-md-6 wrapper">
+    <div class="col-md-3 text-md-center wrapper">
       <h3 class="h3 hidden-sm-down"><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['linkBlock']->value['title'], ENT_QUOTES, 'UTF-8');?>
 </h3>
       <?php $_smarty_tpl->tpl_vars['_expand_id'] = new Smarty_variable(mt_rand(10,100000), null, 0);?>
@@ -79,5 +79,19 @@ $_smarty_tpl->tpl_vars['link']->_loop = true;
     </div>
   <?php } ?>
   </div>
+</div>
+<div class="col-md-2 text-center social-links">
+  <div class="social-links-wrapper">
+    <a class="btn-social-link" href="#">
+      <img class="icon-social" src="http://gold.prestashop.com/demo/themes/classic/assets/img/fa-facebook.png" alt="social link">
+    </a>
+    <a class="btn-social-link" href="#">
+      <img class="icon-social" src="http://gold.prestashop.com/demo/themes/classic/assets/img/fa-instagram.png" alt="social link">
+    </a>
+    <a class="btn-social-link" href="#">
+      <img class="icon-social" src="http://gold.prestashop.com/demo/themes/classic/assets/img/fa-pinterest.png" alt="social link">
+    </a>
+  </div>
+  <p>rejoignez-nous !</p>
 </div>
 <?php }} ?>
