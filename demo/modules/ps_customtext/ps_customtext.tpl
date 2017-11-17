@@ -23,7 +23,7 @@
 *  International Registered Trademark & Property of PrestaShop SA
 *}
 
-<div id="custom-text">
+<div class="container " id="custom-text">
   <div class="icon-divider">
     <img src="{$urls.img_url}icon-heart.png" alt="icon divider">
   </div>
