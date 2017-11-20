@@ -19,7 +19,8 @@ admin030d4c6z9/autoupgrade/
 !/cache/sandbox/index.php
 !/cache/smarty/index.php
 !/cache/tcpdf/index.php
-demo/app/cache/*
+!/demo/app/cache/
+/demo/app/cache/*
 config/xml/*.xml
 /log/*
 *sitemap.xml
