@@ -274,12 +274,63 @@ body {
 .main-category-container .main-category-2,
 .main-category-container .main-category-3,
 .main-category-container .main-category-0 {
-    position: relative;
     margin-bottom: 22px;
 }
 
-.main-category-container .main-category-image {
-    width: 100%;
+.main-category-container .main-category-1,
+.main-category-container .main-category-3 {
+    padding-right: 10px;
+}
+
+.main-category-container .main-category-2,
+.main-category-container .main-category-0 {
+    padding-left: 10px;
+}
+
+.main-category-wrapper {
+    position: relative;
+    height: 523px;
+    overflow: hidden;
+}
+
+@media (max-width: 1199px) {
+    .main-category-wrapper {
+        height: 433px;
+    }
+}
+
+@media (max-width: 991px) {
+    .main-category-wrapper {
+        height: 313px;
+    }
+}
+
+@media (max-width: 767px) {
+    .main-category-wrapper {
+        height: 470px;
+    }
+}
+
+@media (max-width: 575px) {
+    .main-category-wrapper {
+        height: auto;
+    }
+}
+
+.main-category-container .main-category-1 .main-category-wrapper {
+    background-color: #f9e9ec;
+}
+
+.main-category-container .main-category-2 .main-category-wrapper {
+    background-color: #e4f2f1;
+}
+
+.main-category-container .main-category-3 .main-category-wrapper {
+    background-color: #f9eaed;
+}
+
+.main-category-container .main-category-0 .main-category-wrapper {
+    background-color: #e2f1f0;
 }
 
 .main-category-container .main-category-name {
@@ -295,43 +346,47 @@ body {
 }
 
 .main-category-container .main-category-1 .main-category-name {
-    left: 20px;
     top: 50%;
 }
 
 .main-category-container .main-category-2 .main-category-name {
-    left: 20px;
     top: 20%;
 }
 
 .main-category-container .main-category-3 .main-category-name {
-    right: 10px;
     top: 40%;
 }
 
 .main-category-container .main-category-0 .main-category-name {
-    right: 10px;
     top: 20%;
 }
 
-.gm-product-thumbnail img {
+.gm-product {
+    margin-bottom: 20px;
+}
+
+.gm-product .gm-product-thumbnail img {
     width: 100%;
 }
 
-#products .product-title,
-#products .product-price-and-shipping {
+#products img, .featured-products img, .product-accessories img, .product-miniature img {
+    max-width: 100%;
+}
+
+#products .gm-product-description .product-title,
+#products .gm-product-description .product-price-and-shipping {
     font-size: 18px;
     line-height: 1.56;
     letter-spacing: 1.8px;
     color: #7d7d7d;
 }
 
-#products .product-title {
+#products .gm-product-description .product-title {
     margin-bottom: 0;
     text-transform: uppercase;
 }
 
-#products .product-price-and-shipping {
+#products .gm-product-description .product-price-and-shipping {
     font-weight: 500;
 }
 

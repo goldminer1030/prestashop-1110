@@ -13,12 +13,14 @@
 
         {* main category body *}
         <div class="col-md-6 main-category-{$subcategory@iteration % 4}">
-          {if $subcategory.image.large.url}
-            <a href="{$subcategory.url}"><img class="main-category-image" src="{$subcategory.image.large.url}" alt="{$subcategory.image.legend}"></a>
-          {/if}
-          {if $subcategory.name}
-            <a class="main-category-name" href="{$subcategory.url}">{$subcategory.name nofilter}</a>
-          {/if}
+          <div class="main-category-wrapper">
+            {if $subcategory.image.large.url}
+              <a href="{$subcategory.url}"><img class="main-category-image" src="{$subcategory.image.large.url}" alt="{$subcategory.image.legend}"></a>
+            {/if}
+            {if $subcategory.name}
+              <a class="main-category-name" href="{$subcategory.url}">{$subcategory.name nofilter}</a>
+            {/if}
+          </div>
         </div>
 
         {* row end *}

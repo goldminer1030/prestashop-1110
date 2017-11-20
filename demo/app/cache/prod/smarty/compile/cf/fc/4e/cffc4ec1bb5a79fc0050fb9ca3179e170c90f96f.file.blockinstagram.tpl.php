@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2017-11-17 23:38:37
+<?php /* Smarty version Smarty-3.1.19, created on 2017-11-20 03:20:37
          compiled from "modules\blockinstagram\views\templates\hook\blockinstagram.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:146225a0fb94dc97d92-97938314%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:161475a129055dcdf31-99923050%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '146225a0fb94dc97d92-97938314',
+  'nocache_hash' => '161475a129055dcdf31-99923050',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a0fb94dd19065_14364149',
+  'unifunc' => 'content_5a129055e7b003_00686066',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a0fb94dd19065_14364149')) {function content_5a0fb94dd19065_14364149($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['instagram_pics']->value)&&count($_smarty_tpl->tpl_vars['instagram_pics']->value)>0) {?>
+<?php if ($_valid && !is_callable('content_5a129055e7b003_00686066')) {function content_5a129055e7b003_00686066($_smarty_tpl) {?><?php if (isset($_smarty_tpl->tpl_vars['instagram_pics']->value)&&count($_smarty_tpl->tpl_vars['instagram_pics']->value)>0) {?>
 <div id="gm-instagram" class="tab-content">
 	<div class="container">
 		<p class="gm-instagram-title">ACTUS INSTAGRAM</p>
