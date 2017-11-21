@@ -33,6 +33,8 @@
             <span class="sr-only">{l s='Price' d='Shop.Theme.Catalog'}</span>
             <span itemprop="price" class="price">{$product.price}</span>
 
+            <a class="gm-product-button" href="{$product.url}">{l s='je l achete' d='Shop.Theme.Catalog'}</a>
+
             {hook h='displayProductPriceBlock' product=$product type='unit_price'}
 
             {hook h='displayProductPriceBlock' product=$product type='weight'}

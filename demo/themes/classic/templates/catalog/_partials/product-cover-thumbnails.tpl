@@ -44,7 +44,7 @@
               src="{$image.bySize.home_default.url}"
               alt="{$image.legend}"
               title="{$image.legend}"
-              width="100"
+              width="159"
               itemprop="image"
             >
           </li>

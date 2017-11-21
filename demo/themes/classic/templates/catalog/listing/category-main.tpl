@@ -25,6 +25,11 @@
 
         {* row end *}
         {if $subcategory@iteration % 2 == 0 || ($subcategories|count % 2 != 0 && $subcategory@iteration == $subcategories|count)}
+          {* if category cover image exists, display it *}
+          {if $category.image.large.url}
+            <img class="category-cross-pin" src="{$category.image.large.url}" alt="{$category.image.legend}">
+          {/if}
+
           </div>
         {/if}
       {/foreach}
