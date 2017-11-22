@@ -493,6 +493,108 @@ body {
     padding-top: 85px;
 }
 
+.product-container .h1 {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 0.88;
+    letter-spacing: 3.2px;
+    color: #7d7d7d;
+}
+
+.has-discount.product-price, .has-discount p {
+    font-size: 30px;
+    line-height: 0.93;
+    letter-spacing: 3px;
+    color: #7d7d7d;
+}
+
+.has-discount .discount {
+    padding: 15px;
+}
+
+.product-price .current-price .current-price-value {
+    display: inline-block;
+    margin-top: 10px;
+    vertical-align: middle;
+}
+
+.has-discount .discount {
+    padding: 15px;
+}
+
+.product-information .tabs {
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+}
+
+.product-information .tabs .nav-tabs {
+    border-top: 3px solid #f9e9ec;
+    border-bottom: 3px solid #f9e9ec;
+}
+
+.product-information .tabs .nav-tabs .nav-link.active {
+    background-color: transparent;
+}
+
+.tabs .nav-tabs .nav-link.active, .tabs .nav-tabs .nav-link:hover {
+    border-bottom-color: 
+}
+
+.product-information .product_description_short {
+    font-size: 18px;
+    line-height: 1.56;
+    letter-spacing: 1.8px;
+    color: #7d7d7d;
+}
+
+.product-quantity #quantity_wanted {
+    width: 85px;
+    background-color: #f9e9ec;
+    text-align: center;
+    border-color: transparent;
+    color: #7d7d7d;
+    font-size: 30px;
+    line-height: 0.93;
+    letter-spacing: 3px;
+}
+
+.product-quantity .qty {
+    margin-right: 14px;
+}
+
+.bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-down,
+.bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-up {
+    border-color: transparent;
+    background-color: #f9e9ec;
+}
+
+#product-availability {
+    margin-bottom: 10px;
+    font-size: 18px;
+    line-height: 1.56;
+    letter-spacing: 1.8px;
+    color: #c9eb78;
+}
+
+button.add-to-cart {
+    padding-left: 3px;
+    padding-right: 8px;
+    background-color: #f9e9ec;
+    text-transform: none;
+    font-family: 'bromello';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1.17;
+    letter-spacing: 2.4px;
+    color: #7d7d7d;
+}
+
+button.add-to-cart:hover {
+    color: #5a5a5a;
+    background-color: #f9e9ec;
+}
+
 #product #content {
     max-width: 508px;
     margin-left: 0;

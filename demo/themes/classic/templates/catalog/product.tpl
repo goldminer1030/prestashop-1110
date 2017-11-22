@@ -88,7 +88,7 @@
 
             <div class="product-information">
               {block name='product_description_short'}
-                <div id="product-description-short-{$product.id}" itemprop="description">{$product.description_short nofilter}</div>
+                <div class="product_description_short" id="product-description-short-{$product.id}" itemprop="description">{$product.description_short nofilter}</div>
               {/block}
 
               {if $product.is_customizable && count($product.customizations.fields)}
