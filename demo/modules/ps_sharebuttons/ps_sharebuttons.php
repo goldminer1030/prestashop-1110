@@ -32,7 +32,7 @@ use PrestaShop\PrestaShop\Core\Module\WidgetInterface;
 
 class Ps_Sharebuttons extends Module implements WidgetInterface
 {
-    protected static $networks = array('Facebook', 'Twitter', 'Google', 'Pinterest');
+    protected static $networks = array('Facebook', 'Twitter', 'Google', 'Instagram', 'Pinterest');
 
     private $templateFile;
 
@@ -50,7 +50,7 @@ class Ps_Sharebuttons extends Module implements WidgetInterface
         parent::__construct();
 
         $this->displayName = $this->trans('Social media share buttons', array(), 'Modules.Sharebuttons.Admin');
-        $this->description = $this->trans('Displays social media sharing buttons (Twitter, Facebook, Google+ and Pinterest) on every product page.', array(), 'Modules.Sharebuttons.Admin');
+        $this->description = $this->trans('Displays social media sharing buttons (Twitter, Facebook, Google+, Instagram and Pinterest) on every product page.', array(), 'Modules.Sharebuttons.Admin');
 
         $this->templateFile = 'module:ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl';
     }
@@ -61,6 +61,7 @@ class Ps_Sharebuttons extends Module implements WidgetInterface
             && Configuration::updateValue('PS_SC_TWITTER', 1)
             && Configuration::updateValue('PS_SC_FACEBOOK', 1)
             && Configuration::updateValue('PS_SC_GOOGLE', 1)
+            && Configuration::updateValue('PS_SC_INSTAGRAM', 1)
             && Configuration::updateValue('PS_SC_PINTEREST', 1)
             && $this->registerHook('displayProductButtons')
         ;
@@ -195,6 +196,14 @@ class Ps_Sharebuttons extends Module implements WidgetInterface
                 'label' => $this->trans('Google+', array(), 'Modules.Sharebuttons.Shop'),
                 'class' => 'googleplus',
                 'url' => 'https://plus.google.com/share?url='.$sharing_url,
+            );
+        }
+
+        if (Configuration::get('PS_SC_INSTAGRAM')) {
+            $social_share_links['instagram'] = array(
+                'label' => $this->trans('Instagram', array(), 'Modules.Sharebuttons.Shop'),
+                'class' => 'instagram',
+                'url' => 'https://instagram.com/share?url='.$sharing_url,
             );
         }
 
