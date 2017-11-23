@@ -54,6 +54,19 @@
         </div>
 
         <div class="form-group row">
+          <label class="col-md-3 form-control-label">{l s='Name' d='Shop.Forms.Labels'}</label>
+          <div class="col-md-6">
+            <input
+              class="form-control"
+              name="name"
+              type="text"
+              value=""
+              placeholder="{l s='John Doe' d='Shop.Forms.Help'}"
+            >
+          </div>
+        </div>
+
+        <div class="form-group row">
           <label class="col-md-3 form-control-label">{l s='Email address' d='Shop.Forms.Labels'}</label>
           <div class="col-md-6">
             <input
@@ -61,7 +74,7 @@
               name="from"
               type="email"
               value="{$contact.email}"
-              placeholder="{l s='your@email.com' d='Shop.Forms.Help'}"
+              placeholder="{l s='john.doe@email.com' d='Shop.Forms.Help'}"
             >
           </div>
         </div>
@@ -110,6 +123,7 @@
       </section>
 
       <footer class="form-footer col-md-9 text-sm-right">
+        {include file="../../../../../../../modules/slidecaptcha/views/templates/front/slidecaptcha.tpl"}
         <input class="btn btn-primary" type="submit" name="submitMessage" value="{l s='Send' d='Shop.Theme.Actions'}">
       </footer>
     {/if}

@@ -870,6 +870,10 @@ button.add-to-cart:hover {
     text-align: center;
 }
 
+.form-footer {
+    margin-bottom: 30px;
+}
+
 /* GM_Categories module*/
 .gm-category {
     position: relative;
