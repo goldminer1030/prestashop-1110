@@ -33,6 +33,7 @@
           </div>
         {/if}
       {/foreach}
+      <div class="category-footer-gap"></div>
     </div>
   </div>
 {/block}

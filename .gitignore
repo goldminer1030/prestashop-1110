@@ -1,2 +1,4 @@
 !demo/app/cache/
 demo/app/cache/*
+demo/app/cache/**
+!demo/app/cache/**/*.php

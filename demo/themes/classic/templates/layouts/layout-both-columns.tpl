@@ -62,7 +62,7 @@
             {include file='_partials/breadcrumb.tpl'}
           {/block}
 
-          {block name="left_column"}
+          {*{block name="left_column"}
             <div id="left-column" class="col-xs-12 col-sm-4 col-md-3">
               {if $page.page_name == 'product'}
                 {hook h='displayLeftColumnProduct'}
@@ -70,7 +70,7 @@
                 {hook h="displayLeftColumn"}
               {/if}
             </div>
-          {/block}
+          {/block}*}
 
           {block name="content_wrapper"}
             <div id="content-wrapper" class="left-column right-column col-sm-4 col-md-6">

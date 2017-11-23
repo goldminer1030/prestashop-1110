@@ -39,9 +39,7 @@
       <section class="form-fields">
 
         <div class="form-group row">
-          <div class="col-md-9 col-md-offset-3">
-            <h3>{l s='Contact us' d='Shop.Theme.Global'}</h3>
-          </div>
+          <h3>{l s='Contact us' d='Shop.Theme.Global'}</h3>
         </div>
 
         <div class="form-group row">
@@ -99,7 +97,7 @@
 
         <div class="form-group row">
           <label class="col-md-3 form-control-label">{l s='Message' d='Shop.Forms.Labels'}</label>
-          <div class="col-md-9">
+          <div class="col-md-6">
             <textarea
               class="form-control"
               name="message"
@@ -111,7 +109,7 @@
 
       </section>
 
-      <footer class="form-footer text-sm-right">
+      <footer class="form-footer col-md-9 text-sm-right">
         <input class="btn btn-primary" type="submit" name="submitMessage" value="{l s='Send' d='Shop.Theme.Actions'}">
       </footer>
     {/if}
