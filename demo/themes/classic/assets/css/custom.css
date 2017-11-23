@@ -116,6 +116,23 @@ body {
     margin-top: -28px;
 }
 
+#mobile_top_menu_wrapper {
+    position: relative !important;
+    z-index: 999;
+    margin-top: 0;
+    background: #f1f1f1;
+}
+
+#mobile_top_menu_wrapper .top-menu li {
+    padding: 0 0 0 20px;
+}
+
+#mobile_top_menu_wrapper .top-menu .sub-menu li>a {
+    color: #555555;
+    font-weight: 500;
+    letter-spacing: 2.8px;
+}
+
 .top-menu a[data-depth="0"] {
     font-weight: 500;
     letter-spacing: 2.8px;

@@ -74,11 +74,9 @@
       </div>
       <div class="row">
         <div class="position-static">
-          <div class="col-xs-12">
-            <div class="row top-menu-wrapper">
-              {hook h='displayTop'}
-              <div class="clearfix"></div>
-            </div>
+          <div class="top-menu-wrapper">
+            {hook h='displayTop'}
+            <div class="clearfix"></div>
           </div>
         </div>
       </div>
