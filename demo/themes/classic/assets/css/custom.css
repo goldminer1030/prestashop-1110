@@ -576,6 +576,14 @@ body {
     font-weight: 500;
 }
 
+#products .thumbnail-container,
+.featured-products .thumbnail-container,
+.product-accessories .thumbnail-container,
+.product-miniature .thumbnail-container {
+    background: #e4f2f1;
+    box-shadow: none;
+}
+
 .gm-product-button {
     position: absolute;
     right: 0;
@@ -872,6 +880,12 @@ button.add-to-cart:hover {
 }
 
 .page-content.page-cms {
+    background: transparent;
+}
+
+#pagenotfound .page-not-found,
+#products .page-not-found {
+    box-shadow: none;
     background: transparent;
 }
 
