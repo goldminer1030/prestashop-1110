@@ -23,7 +23,10 @@
  * International Registered Trademark & Property of PrestaShop SA
  *}
 {block name='footer'}
-<div class="text-sm-center">
-  {l s='%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
-</div>
+<p class="text-sm-center">
+  {block name='copyright_link'}
+    {l s='%copyright% %year% - Boulevard des Mômes – Agence Digitale ' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
+    <a class="_blank" href="http://www.freshcore.fr" target="_blank">www.freshcore.fr</a>
+  {/block}
+</p>
 {/block}

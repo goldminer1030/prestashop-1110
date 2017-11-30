@@ -58,14 +58,14 @@
 </div>
 <div class="col-md-2 text-center social-links">
   <div class="social-links-wrapper">
-    <a class="btn-social-link" href="#">
-      <img class="icon-social" src="http://gold.prestashop.com/demo/themes/classic/assets/img/fa-facebook.png" alt="social link">
+    <a class="btn-social-link" href="http://www.facebook.com" target="_blank">
+      <img class="icon-social" src="{$urls.img_url}fa-facebook.png" alt="social link">
     </a>
-    <a class="btn-social-link" href="#">
-      <img class="icon-social" src="http://gold.prestashop.com/demo/themes/classic/assets/img/fa-instagram.png" alt="social link">
+    <a class="btn-social-link" href="http://www.instagram.com" target="_blank">
+      <img class="icon-social" src="{$urls.img_url}fa-instagram.png" alt="social link">
     </a>
-    <a class="btn-social-link" href="#">
-      <img class="icon-social" src="http://gold.prestashop.com/demo/themes/classic/assets/img/fa-pinterest.png" alt="social link">
+    <a class="btn-social-link" href="http://www.pinterest.com" target="_blank">
+      <img class="icon-social" src="{$urls.img_url}fa-pinterest.png" alt="social link">
     </a>
   </div>
   <p>rejoignez-nous !</p>

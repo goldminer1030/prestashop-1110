@@ -5,13 +5,13 @@
   {if $listing.products|count}
     <div class="container sub-category-container">
       <div class="sub-category-inner-wrapper">
-        <p class="sub-category-desc">{$category.description|escape:'html':'UTF-8'}</p>
+        <div class="sub-category-desc">{$category.description nofilter}</div>
         <div class="row sub-category-row">
           <div class="sub-category-left-sidebar">
             <div class="sub-category-left-back">
-              {if $category.image.large.url}
+              {if $category.image.small.url}
                 <div class="sub-category-left-image">
-                  <img src="{$category.image.large.url}" alt="{$category.image.legend}">
+                  <img src="{$category.image.small.url}" alt="{$category.image.legend}">
                 </div>
               {/if}
               <div class="sub-category-left-text-block">

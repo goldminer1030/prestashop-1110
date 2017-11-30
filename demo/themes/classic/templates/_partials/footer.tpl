@@ -45,9 +45,8 @@
       <div class="col-md-12">
         <p class="text-sm-center">
           {block name='copyright_link'}
-            <a class="_blank" href="http://www.prestashop.com" target="_blank">
-              {l s='%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
-            </a>
+            {l s='%copyright% %year% - Boulevard des Mômes – Agence Digitale ' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
+            <a class="_blank" href="http://www.freshcore.fr" target="_blank">www.freshcore.fr</a>
           {/block}
         </p>
       </div>

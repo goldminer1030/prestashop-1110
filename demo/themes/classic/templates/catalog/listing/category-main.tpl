@@ -4,7 +4,7 @@
 {block name='main_category_list'}
   <div class="container">
     <div class="main-category-container">
-      <p class="main-category-desc">{$category.description|escape:'html':'UTF-8'}</p>
+      <div class="main-category-desc">{$category.description nofilter}</div>
       {foreach from=$subcategories item=subcategory}
         {* row start *}
         {if $subcategory@iteration % 2 != 0}
@@ -26,8 +26,8 @@
         {* row end *}
         {if $subcategory@iteration % 2 == 0 || ($subcategories|count % 2 != 0 && $subcategory@iteration == $subcategories|count)}
           {* if category cover image exists, display it *}
-          {if $category.image.large.url}
-            <img class="category-cross-pin" src="{$category.image.large.url}" alt="{$category.image.legend}">
+          {if $category.image.small.url}
+            <img class="category-cross-pin" src="{$category.image.small.url}" alt="{$category.image.legend}">
           {/if}
 
           </div>

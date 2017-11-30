@@ -27,14 +27,11 @@
     <nav class="header-nav">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 hidden-sm-down" id="_desktop_logo">
+          <div class="text-md-center hidden-sm-down" id="_desktop_logo">
             <a href="{$urls.base_url}">
               <img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name} {l s='logo' d='Shop.Theme.Global'}">
             </a>
-          </div>
-          <div class="col-md-6 text-xs-right hidden-sm-down">
-            {hook h='displayNav1'}
-          </div>
+          </div>         
           <div class="hidden-md-up text-sm-center mobile">
             {hook h='displayNav2'}
             <div class="float-xs-left" id="menu-icon">
@@ -47,6 +44,7 @@
           </div>
         </div>
       </div>
+      {hook h='displayNav1'}
     </nav>
   {/block}
 

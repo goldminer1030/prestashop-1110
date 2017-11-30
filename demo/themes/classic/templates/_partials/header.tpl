@@ -61,13 +61,13 @@
           </a>
         </div>
         <div class="text-md-center hidden-sm-down">
-          <a class="btn-social-link" href="#">
+          <a class="btn-social-link" href="http://www.facebook.com" target="_blank">
             <img class="icon-social" src="{$urls.img_url}fa-facebook.png" alt="social link">
           </a>
-          <a class="btn-social-link" href="#">
+          <a class="btn-social-link" href="http://www.instagram.com" target="_blank">
             <img class="icon-social" src="{$urls.img_url}fa-instagram.png" alt="social link">
           </a>
-          <a class="btn-social-link" href="#">
+          <a class="btn-social-link" href="http://www.pinterest.com" target="_blank">
             <img class="icon-social" src="{$urls.img_url}fa-pinterest.png" alt="social link">
           </a>
         </div>

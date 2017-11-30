@@ -147,10 +147,32 @@ body {
     font-weight: 500;
 }
 
+body#checkout section.checkout-step {
+    box-shadow: none;
+    background-color: transparent;
+}
+
+body#checkout #header .header-nav,
 #header .header-nav {
     background-color: #e4f2f1;
     max-height: 28px;
     margin-bottom: 0;
+    padding: 0;
+}
+
+body#checkout #header .header-nav {
+    position: relative;
+    margin-bottom: 50px;
+}
+
+#header .header-nav #_desktop_contact_link {
+    position: absolute;
+    top: 0;
+    right: 30px;
+}
+
+#header .header-nav #contact-link {
+    margin-top: 5px;
 }
 
 #header .header-nav #menu-icon .material-icons {
@@ -360,8 +382,8 @@ body {
 }
 
 /* MAIN CATEGORY */
-.main-category-container .main-category-desc,
-.sub-category-container .sub-category-desc {
+.main-category-container .main-category-desc p,
+.sub-category-container .sub-category-desc p {
     font-size: 12px;
     line-height: 2.33;
     letter-spacing: 1.2px;
@@ -375,10 +397,8 @@ body {
 
 .main-category-container .main-category-row .category-cross-pin {
     position: absolute;
-    left: calc(50% - 100px);
-    bottom: -60px;
-    width: 200px;
-    height: 156px;
+    left: calc(50% - 50px);
+    bottom: -40px;
     z-index: 2;
     display: inline-block;
 }
@@ -434,6 +454,10 @@ body {
     height: 100%;
     width: 152px;
     background-color: #f9eaed;
+}
+
+.sub-category-container .sub-category-row .sub-category-left-sidebar .sub-category-left-image {
+    text-align: center;
 }
 
 .sub-category-container .sub-category-row .sub-category-left-sidebar .sub-category-left-text-block {
@@ -553,6 +577,10 @@ body {
 
 .gm-product .gm-product-thumbnail img {
     width: 100%;
+}
+
+#products img {
+    margin-left: 0; 
 }
 
 #products img, .featured-products img, .product-accessories img, .product-miniature img {
@@ -771,9 +799,10 @@ body {
 }
 
 .bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-down,
-.bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-up {
-    border-color: transparent;
-    background-color: #f9e9ec;
+.bootstrap-touchspin .input-group-btn-vertical .bootstrap-touchspin-up,
+.bootstrap-touchspin .js-cart-line-product-quantity {
+    border-color: transparent !important;
+    background-color: #f9e9ec !important;
 }
 
 #product-availability {
@@ -903,6 +932,27 @@ button.add-to-cart:hover {
 
 .form-footer {
     margin-bottom: 30px;
+}
+
+.page-authentication .page-header {
+    text-align: center;
+}
+
+.page-authentication #content {
+    max-width: 900px;
+    margin: 0 auto;
+    box-shadow: none;
+    background: transparent;
+}
+
+.card {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.card input {
+    background-color: #f9e9ec;
+    border-color: transparent;
 }
 
 /* GM_Categories module*/
