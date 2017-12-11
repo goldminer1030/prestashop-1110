@@ -28,7 +28,7 @@
       {if $cart.products_count > 0}
         <a rel="nofollow" href="{$cart_url}">
       {/if}
-        <img src="{$urls.img_url}icon-cart.png" alt="cart icon">
+        <i class="material-icons">add_shopping_cart</i>
         <span class="hidden-sm-down">{l s='Cart' d='Shop.Theme.Checkout'}</span>
         <span class="cart-products-count">({$cart.products_count})</span>
       {if $cart.products_count > 0}

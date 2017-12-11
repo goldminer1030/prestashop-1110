@@ -1,11 +1,11 @@
-{if isset($instagram_pics) && $instagram_pics|count > 0}
 <div id="gm-instagram" class="tab-content">
 	<div class="container">
 		<p class="gm-instagram-title">ACTUS INSTAGRAM</p>
 		<div class="page-heading">
 			{l s='Follow' mod='blockinstagram'} {$instagram_user.full_name} {l s='on' mod='blockinstagram'}
-			<a href="https://www.instagram.com/{$instagram_user.username}/" target="_blank" rel="nofollow">Instagram</a>
+			<a href="https://www.instagram.com/{$instagram_id}/" target="_blank" rel="nofollow">Instagram</a>
 		</div>
+		{if isset($instagram_pics) && $instagram_pics|count > 0}
 		<div class="row">
 			{foreach $instagram_pics as $pic}
 				<div class="col-sm-6 col-md-3">
@@ -20,6 +20,6 @@
 				</div>
 			{/foreach}
 		</div>
+		{/if}
 	</div>
 </div>
-{/if}

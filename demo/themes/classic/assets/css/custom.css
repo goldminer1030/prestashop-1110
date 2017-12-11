@@ -73,6 +73,7 @@ body {
     line-height: 22px;
     letter-spacing: 1.2px;
     background: #fffdeb;
+    overflow-x: hidden;
 }
 
 #wrapper {
@@ -202,6 +203,12 @@ body#checkout #header .header-nav {
 
 #header .header-nav .user-info a {
     font-family: 'Trebuchet MS';
+}
+
+#header .header-nav .blockcart .header {
+    margin-top: 0;
+    padding: 0 10px;
+    line-height: 27px;
 }
 
 #header .header-nav .blockcart .header img {
@@ -1029,4 +1036,18 @@ button.add-to-cart:hover {
     line-height: 1.56;
     letter-spacing: 1.8px;
     color: #7d7d7d;
+}
+
+.ui-autocomplete.ui-menu.ui-widget.ui-widget-content {
+    left: auto !important;
+    right: 25px;
+    font-size: 14px;
+    width: auto !important;
+    max-width: 320px;
+}
+
+@media (max-width: 768px) {
+    .ui-autocomplete.ui-menu.ui-widget.ui-widget-content {
+        right: 40px;
+    }
 }
