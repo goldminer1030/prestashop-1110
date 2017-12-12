@@ -153,7 +153,6 @@ class BlockInstagram extends Module
         if (!$this->isCached('blockinstagram.tpl', $cacheId)) {
             $this->context->smarty->assign(array(
                 'instagram_id' => $this->getUsername(),
-                'instagram_pics_by_scrap' => $this->getPicsByScrap(),
                 'instagram_pics' => $this->getPics(),
                 'instagram_user' => $this->getAccount($this->getUsername())
             ));
@@ -208,31 +207,8 @@ class BlockInstagram extends Module
     public static function getFeed($feed) {
         $json_url = self::BI_BASE_FEED . $feed;
         $ctx = stream_context_create(array('http' => array('timeout' => 120)));
-        //$json = @file_get_contents($json_url, false, $ctx);
-        $json = @file_get_contents("instagram.txt", true);
+        $json = @file_get_contents($json_url, false, $ctx);
         return $json ? json_decode($json) : false;
-    }
-
-    public function getPicsByScrap() {
-        $instagram_pics = array();
-
-        // Create a stream
-        $opts = array(
-            'http'=>array(
-                'method'=>"GET",
-                'header'=>"Accept-language: en\r\n" .
-                        "Cookie: foo=bar\r\n"
-            )
-        );
-
-        $context = stream_context_create($opts);
-
-        // Open the file using the HTTP headers set above
-        $username = $this->getUsername();
-        $json_url = self::BI_BASE_FEED . $username .'/?__a=1';
-        $json = @file_get_contents($json_url, false, $context);
-
-        return $instagram_pics;
     }
 
     public function getPics($all = false) {
